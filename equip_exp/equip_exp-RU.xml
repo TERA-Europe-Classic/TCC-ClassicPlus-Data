@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<EquipmentExpData>
+  <EquipmentExp id="100">
+    <Exp enchantStep="0" maxExp="328" supExp="984" />
+    <Exp enchantStep="1" maxExp="376" supExp="1128" />
+    <Exp enchantStep="2" maxExp="441" supExp="1323" />
+    <Exp enchantStep="3" maxExp="525" supExp="1575" />
+    <Exp enchantStep="4" maxExp="639" supExp="1917" />
+    <Exp enchantStep="5" maxExp="786" supExp="2358" />
+    <Exp enchantStep="6" maxExp="985" supExp="2955" />
+    <Exp enchantStep="7" maxExp="1241" supExp="3723" />
+    <Exp enchantStep="8" maxExp="1571" supExp="4713" />
+    <Exp enchantStep="9" maxExp="2045" supExp="6135" />
+  </EquipmentExp>
+  <EquipmentExp id="101">
+    <Exp enchantStep="0" maxExp="1000" supExp="3000" />
+    <Exp enchantStep="1" maxExp="1400" supExp="4200" />
+    <Exp enchantStep="2" maxExp="1800" supExp="5400" />
+    <Exp enchantStep="3" maxExp="2200" supExp="6600" />
+    <Exp enchantStep="4" maxExp="2600" supExp="7800" />
+    <Exp enchantStep="5" maxExp="3000" supExp="9000" />
+    <Exp enchantStep="6" maxExp="3500" supExp="10500" />
+    <Exp enchantStep="7" maxExp="4000" supExp="12000" />
+    <Exp enchantStep="8" maxExp="5000" supExp="15000" />
+    <Exp enchantStep="9" maxExp="6000" supExp="18000" />
+  </EquipmentExp>
+  <EquipmentExp id="102">
+    <Exp enchantStep="0" maxExp="3000" supExp="9000" />
+    <Exp enchantStep="1" maxExp="3500" supExp="10500" />
+    <Exp enchantStep="2" maxExp="4000" supExp="12000" />
+    <Exp enchantStep="3" maxExp="4500" supExp="13500" />
+    <Exp enchantStep="4" maxExp="5000" supExp="15000" />
+    <Exp enchantStep="5" maxExp="6000" supExp="18000" />
+    <Exp enchantStep="6" maxExp="7000" supExp="21000" />
+    <Exp enchantStep="7" maxExp="8000" supExp="24000" />
+    <Exp enchantStep="8" maxExp="10000" supExp="30000" />
+    <Exp enchantStep="9" maxExp="25000" supExp="75000" />
+  </EquipmentExp>
+  <EquipmentExp id="103">
+    <Exp enchantStep="0" maxExp="100000" supExp="250000" />
+    <Exp enchantStep="1" maxExp="110000" supExp="250000" />
+    <Exp enchantStep="2" maxExp="130000" supExp="250000" />
+    <Exp enchantStep="3" maxExp="150000" supExp="250000" />
+    <Exp enchantStep="4" maxExp="180000" supExp="300000" />
+    <Exp enchantStep="5" maxExp="200000" supExp="300000" />
+    <Exp enchantStep="6" maxExp="222000" supExp="400000" />
+    <Exp enchantStep="7" maxExp="246800" supExp="400000" />
+    <Exp enchantStep="8" maxExp="275000" supExp="500000" />
+    <Exp enchantStep="9" maxExp="350000" supExp="999999" />
+    <Exp enchantStep="10" maxExp="400000" supExp="999999" />
+    <Exp enchantStep="11" maxExp="500000" supExp="999999" />
+    <Exp enchantStep="12" maxExp="999999" supExp="999999" />
+  </EquipmentExp>
+  <EquipmentExp id="110">
+    <Exp enchantStep="0" maxExp="10000" supExp="10000" />
+  </EquipmentExp>
+  <EquipmentExp id="111">
+    <Exp enchantStep="0" maxExp="15000" supExp="15000" />
+  </EquipmentExp>
+  <EquipmentExp id="112">
+    <Exp enchantStep="0" maxExp="50000" supExp="50000" />
+  </EquipmentExp>
+  <EquipmentExp id="113">
+    <Exp enchantStep="0" maxExp="400000" supExp="400000" />
+  </EquipmentExp>
+  <EquipmentExp id="201">
+    <Exp enchantStep="0" maxExp="30239" supExp="30239" />
+  </EquipmentExp>
+  <EquipmentExp id="202">
+    <Exp enchantStep="0" maxExp="0" supExp="0" />
+  </EquipmentExp>
+  <EquipmentExp id="203">
+    <Exp enchantStep="0" maxExp="0" supExp="0" />
+  </EquipmentExp>
+  <EquipmentExp id="300">
+    <Exp enchantStep="0" maxExp="0" supExp="0" />
+    <Exp enchantStep="1" maxExp="0" supExp="0" />
+    <Exp enchantStep="2" maxExp="0" supExp="0" />
+    <Exp enchantStep="3" maxExp="4000" supExp="8500" />
+    <Exp enchantStep="4" maxExp="5000" supExp="10000" />
+    <Exp enchantStep="5" maxExp="6500" supExp="12000" />
+    <Exp enchantStep="6" maxExp="9000" supExp="15000" />
+    <Exp enchantStep="7" maxExp="12000" supExp="20000" />
+    <Exp enchantStep="8" maxExp="16000" supExp="30000" />
+    <Exp enchantStep="9" maxExp="22000" supExp="45000" />
+  </EquipmentExp>
+  <EquipmentExp id="301">
+    <Exp enchantStep="0" maxExp="7000" supExp="60000" />
+    <Exp enchantStep="1" maxExp="14000" supExp="60000" />
+    <Exp enchantStep="2" maxExp="21000" supExp="60000" />
+    <Exp enchantStep="3" maxExp="28000" supExp="60000" />
+    <Exp enchantStep="4" maxExp="35000" supExp="80000" />
+    <Exp enchantStep="5" maxExp="42000" supExp="80000" />
+    <Exp enchantStep="6" maxExp="49000" supExp="100000" />
+    <Exp enchantStep="7" maxExp="56000" supExp="100000" />
+    <Exp enchantStep="8" maxExp="93000" supExp="200000" />
+    <Exp enchantStep="9" maxExp="70000" supExp="200000" />
+  </EquipmentExp>
+  <EquipmentExp id="302">
+    <Exp enchantStep="0" maxExp="100000" supExp="250000" />
+    <Exp enchantStep="1" maxExp="110000" supExp="250000" />
+    <Exp enchantStep="2" maxExp="130000" supExp="250000" />
+    <Exp enchantStep="3" maxExp="150000" supExp="250000" />
+    <Exp enchantStep="4" maxExp="180000" supExp="300000" />
+    <Exp enchantStep="5" maxExp="200000" supExp="300000" />
+    <Exp enchantStep="6" maxExp="222000" supExp="400000" />
+    <Exp enchantStep="7" maxExp="246800" supExp="400000" />
+    <Exp enchantStep="8" maxExp="275000" supExp="500000" />
+    <Exp enchantStep="9" maxExp="333333" supExp="333333" />
+  </EquipmentExp>
+  <EquipmentExp id="310">
+    <Exp enchantStep="0" maxExp="10000" supExp="10000" />
+  </EquipmentExp>
+  <EquipmentExp id="311">
+    <Exp enchantStep="0" maxExp="50000" supExp="50000" />
+  </EquipmentExp>
+  <EquipmentExp id="312">
+    <Exp enchantStep="0" maxExp="100000" supExp="100000" />
+  </EquipmentExp>
+  <EquipmentExp id="500">
+    <Exp enchantStep="0" maxExp="7070" supExp="60000" />
+    <Exp enchantStep="1" maxExp="14140" supExp="60000" />
+    <Exp enchantStep="2" maxExp="21210" supExp="60000" />
+    <Exp enchantStep="3" maxExp="28280" supExp="60000" />
+    <Exp enchantStep="4" maxExp="35350" supExp="80000" />
+    <Exp enchantStep="5" maxExp="42420" supExp="80000" />
+    <Exp enchantStep="6" maxExp="49490" supExp="100000" />
+    <Exp enchantStep="7" maxExp="58580" supExp="100000" />
+    <Exp enchantStep="8" maxExp="71710" supExp="200000" />
+    <Exp enchantStep="9" maxExp="99990" supExp="200000" />
+  </EquipmentExp>
+</EquipmentExpData>

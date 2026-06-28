@@ -1,0 +1,2885 @@
+1	1001	Death is Only...
+2	2001	Death Row
+3	3001	Death Wish
+4	4001	Petty Cash
+5	5001	Pet Project
+6	6001	Pet Smart
+7	7001	Group Thinking
+8	8001	Party Planner
+9	9001	Party Time
+10	10001	You Picked Me
+11	11001	You Want Me
+12	12001	You Need Me
+13	13001	Found the Leader in Me
+14	14001	Lead on to Victory
+15	15001	Leader of the Pack
+16	16001	We are Family
+17	17001	Better With You
+18	18001	Still Haven't Found What I'm Looking For
+19	19001	Hounded a Hundred
+20	20001	Thrashed a Thousand
+21	21001	Marred a Myriad
+22	22001	Fillet Fifty K
+23	23001	Ten Big Ones
+24	24001	A Hundred Big Ones
+25	25001	A Thousand Big Ones
+26	26001	A Hundred Small
+27	27001	A Thousand Small
+28	28001	Ten Thousand Small
+29	29001	Competitive
+30	30001	Competitive Sports
+31	31001	Fiercely Competitive
+32	32001	Winning Edge
+33	33001	Strategic Edge
+34	34001	Competitive Edge
+35	35001	Playing with Matches
+36	36001	Matchbook
+37	37001	Matchmaker
+38	38001	Smells like Team Spirit
+39	39001	Team Idol
+40	40001	Team Titan
+41	41001	Uncommon Ground
+42	42001	Uncommon Sense
+43	43001	Uncommon Wealth
+44	44001	Rare Treat
+45	45001	Rare Finds
+46	46001	Rare Company
+47	47001	Superior Court I
+48	48001	Superior Court X
+49	49001	Superior Court L
+50	50001	Speed Demon
+51	51001	Who Needs a Healer?
+52	52001	Level 10
+53	53001	Level 20
+54	54001	Level 30
+55	55001	Level 40
+56	56001	Level 50
+57	57001	Money Talks
+58	58001	Money Talks Louder
+59	59001	Money Talks Louder Than Ever
+60	60001	Money Don't Need to Say a Thing
+61	61001	Lead Warrior
+62	62001	Lead Lancer
+63	63001	Lead Slayer
+64	64001	Lead Berserker
+65	65001	Lead Sorcerer
+66	66001	Lead Archer
+67	67001	Lead Priest
+68	68001	Lead Mystic
+69	69001	Lucky Streak
+70	70001	Hot Streak
+71	71001	Wasted a Warrior
+72	72001	Lambasted a Lancer
+73	73001	Slaughtered a Slayer
+74	74001	Bested a Berserker
+75	75001	Schooled a Sorcerer
+76	76001	Annihilated an Archer
+77	77001	Preyed on a Priest
+78	78001	Mistreated a Mystic
+79	79001	Emerged Victorious
+80	80001	I Saw It First
+81	81001	I'll Carry That for You
+82	82001	Pried from Their Cold Dead Fingers
+83	83001	Vanarch
+84	84001	Vanarch Again
+85	85001	Who's the Boss?
+86	86001	So Very Enchanting
+87	87001	You and Your Plus One
+88	88001	On the Plus Side
+89	89001	Plus-Sized
+90	90001	Nonplussed
+92	92001	Stocked the Broker
+93	93001	Battle Tested
+94	94001	Battle Worn
+95	95001	Battle Weary
+96	96001	Superior Display
+97	97001	Island Explorer
+98	98001	Arun Man
+99	99001	Meandered to Leander
+100	100001	Apprentice Weaponsmith
+101	101001	Journeyman Weaponsmith
+102	102001	Professional Weaponsmith
+103	103001	Classical Weaponsmith
+104	104001	Apprentice Focuswright
+105	105001	Journeyman Focuswright
+106	106001	Professional Focuswright
+107	107001	Classical Focuswright
+108	108001	Apprentice Armorsmith
+109	109001	Journeyman Armorsmith
+110	110001	Professional Armorsmith
+111	111001	Classical Armorsmith
+112	112001	Apprentice Leatherworker
+113	113001	Journeyman Leatherworker
+114	114001	Professional Leatherworker
+115	115001	Classical Leatherworker
+116	116001	Apprentice Tailor
+117	117001	Journeyman Tailor
+118	118001	Professional Tailor
+119	119001	Classical Tailor
+120	120001	Jack of All Trades
+121	121001	Minor Miner
+122	122001	Middling Miner
+123	123001	Major Miner
+124	124001	Master Miner
+125	125001	Spark of Energy
+126	126001	Energetic
+127	127001	Full of Energy
+128	128001	Expert Energizer
+129	129001	Little Acorn
+130	130001	Tiny Sapling
+131	131001	Thriving Tree
+132	132001	Mighty Oak
+133	133001	Materials Master
+134	134001	Not Alone
+135	135001	Circle of Friends
+136	136001	Social Network
+137	137001	Expedition Relief
+138	138001	With a Little Lore
+139	139001	You Can't Hurry Lore
+140	140001	All You Need is Lore
+141	141001	Just Rewards
+142	142001	Rewarding Work
+143	143001	Final Reward
+144	144001	Timber!
+145	145001	Feather in Your Cap
+146	146001	Lair and Back Again
+147	147001	Conscripted
+148	148001	Bringing Dakanius Down
+149	149001	Make 'Em Squeal
+150	150001	Fangs a Lot
+151	151001	Officer Candidate
+152	152001	Buffed Vampir Slayer
+153	153001	Friend of Elleon
+154	154001	Unmasked
+155	155001	Sisterly Love
+156	156001	Back to Velika
+157	157001	Allemantheian Allegiances
+158	158001	Core Competency
+159	159001	Future Shock
+160	160001	Unquavering Belief
+161	161001	Where Art Thou?
+162	162001	Freedom Fight
+163	163001	Under Quarantine
+164	164001	Masquerade
+165	165001	Dances with Orcans
+166	166001	Finding the Core
+167	167001	Rescuing the Core
+168	168001	The New Core
+169	169001	Open the Gate
+170	170001	Sealed Her Fate
+171	171001	Hungry for Battle
+172	172001	Swear on This Sword
+173	173001	Lines of Supply
+174	174001	Heart of the Matter
+175	175001	BOOM!!
+176	176001	Kulkari Killer
+177	177001	Good Neighbor
+178	178001	The Great Escape
+179	179001	Too Many Tuwangis
+180	180001	Bork Bork Bork!
+181	181001	That's One Interpretation
+182	182001	Argon Acquired
+183	183001	Desert Warfare
+184	184001	Higher Ground
+185	185001	Bloodlust Can't Be Tamed
+186	186001	I Got an Owie
+187	187001	Smuggler's Blues
+188	188001	Ringbearer
+189	189001	Best Served Cold
+190	190001	How Prophetic
+191	191001	It's Bacon!
+192	192001	Stay in School
+193	193001	Field Trip
+194	194001	It's What's for Dinner
+195	195001	A Good Swift Kick
+196	196001	Light the Way
+197	197001	Give 'Em a Hand
+198	198001	Come Bearing Gifts
+199	199001	Curiosity Killed the Cat
+200	200001	Nexus Scramble
+201	201001	True Blue
+202	202001	Covert Operations
+203	203001	Fulcrum Fail
+204	204001	Pick Me!
+205	205001	Dedicated TERA Player!
+206	206001	100 Bosses
+207	207001	1,000 Bosses
+208	208001	5,000 Bosses
+209	209001	Part of Something Bigger than Myself
+210	210001	Split Them 50/50
+211	211001	Road Rage
+212	212001	Ovokill
+213	213001	A Maze Mastered
+214	214001	Take a Load Off
+215	215001	Crab Dip
+216	216001	Under My Umbrella
+217	217001	If Looks Could Kill
+218	218001	Arrrr!
+219	219001	Ice Pirate
+220	220001	Cold War
+221	221001	Suck the Venom Out
+222	222001	Felling Kel
+223	223001	Calm the Tempest
+224	224001	Rule Arun
+225	225001	Ritual Cleansing
+226	226001	Trifecta
+227	227001	Family Ties
+228	228001	Taking the Refuge
+229	229001	Off the Beaten Path
+230	230001	Worked to Death
+231	231001	Unlocking the Gates
+232	232001	Splitting Headache
+233	233001	Bellicose Baracos
+234	234001	Hard as Nails
+235	235001	Reign Fall
+236	236001	Here Be Dracoloths
+237	237001	Quoth the Raven
+238	238001	Uncovered a Storm Lizard
+239	239001	For the Children
+240	240001	Save the Vales
+241	241001	Some Like It Cold
+242	242001	Going All the Fae
+243	243001	Some Like It Hot
+244	244001	Judging by the Size
+245	245001	Go into Hiding
+246	246001	Bit of a Headache
+247	247001	Find It in Your Heart
+248	248001	Trial by Blood
+249	249001	Empty the Gorge
+250	250001	Torch the Tor
+251	251001	In a Canyon
+252	252001	Spirited Away
+253	253001	A Very Rotten Egg
+254	254001	Put to the Test
+255	255001	A Fragment of My Former Self
+256	256001	Rescue One
+257	257001	Downed the Clown
+258	258001	Carry the Torch
+259	259001	What Thulsa Hath Wrought
+260	260001	Hello Darkness, My Old Fiend
+261	261001	Winging It
+262	262001	That Ain't No Flower
+263	263001	For the Birds
+264	264001	Doesn't Bat an Eye
+265	265001	Clear the Coulee
+266	266001	Nix Nyx
+267	267001	Test achievement
+268	268001	Thus Ever to Tyrants
+269	269001	Unarm Killian's Army
+270	270001	Like a Rock
+271	271001	Tooth Extraction
+272	272001	Revenge Is a Dish Best Served Cold
+273	273001	The Huntress Is the Prey
+274	274001	A Giant Heiry Problem
+275	275001	When a Good Guard Goes Bad
+276	276001	Don't Brood about It
+277	277001	Run into the Ground
+278	278001	Shot in the Dark
+279	279001	Using an Obscene Jester
+280	280001	Best Fiends
+281	281001	Thulsa, OK
+282	282001	A Wrong of Fire and Ice
+283	283001	Pruning the Sky Garden
+284	284001	Secret Garden
+285	285001	Rule Southern Shara
+286	286001	Arcadia Marathon
+287	287001	Ostgarath Marathon
+288	288001	Poporia Marathon
+289	289001	Val Aureum Marathon
+290	290001	Essenia Marathon
+291	291001	Westonia Marathon
+292	292001	Val Elenium Marathon
+293	293001	Val Palrada Marathon
+294	294001	Lorcada Marathon
+295	295001	Sylvanoth Marathon
+296	296001	Warrior Secundus
+297	297001	Lancer Secundus
+298	298001	Slayer Secundus
+299	299001	Berserker Secundus
+300	300001	Sorcerer Secundus
+301	301001	Archer Secundus
+302	302001	Priest Secundus
+303	303001	Mystic Secundus
+304	304001	Crazy Little Thing Called Lore
+305	305001	Let Your Lore Flow
+306	306001	How Deep Is Your Lore?
+307	307001	The Power of Lore
+308	308001	Gathering Master
+309	309001	Lorcada Marathon
+310	310001	The Craft
+311	311001	That's Gonna Leave a Stain
+312	312001	Never Give Up!
+313	313001	Never Surrender!
+314	314001	Try, Try Again
+315	315001	Rock the Vote
+316	316001	Prone to Violence
+317	317001	Prone to Violence
+318	318001	Prone to Violence
+319	319001	Prone to Violence
+320	320001	Prone to Violence
+321	321001	Prone to Violence
+322	322001	Prone to Violence
+323	323001	Prone to Violence
+324	324001	Chewing the Scenery
+325	325001	One Hundred Thousand Arrows
+326	326001	Immovable Object
+327	327001	Come Here!
+328	328001	Behind Their Back
+329	329001	Blowing Smoke
+330	330001	I Don't Need No Stinkin' HP
+331	331001	Over-Eager
+332	332001	The Fire Within
+333	333001	Blood for Life
+334	334001	Faster! Faster!
+335	335001	Hell Rises Up
+336	336001	Taking Care of Number One
+337	337001	Death Is No Excuse
+338	338001	Stun Gun
+339	339001	Sweet Dreams
+340	340001	One with Basilisks
+341	341001	One with Ovoliths
+342	342001	One with Kumases
+343	343001	One with Clawriders
+344	344001	One with Nagas
+345	345001	One with Dracoloths
+346	346001	One with Icereavers
+347	347001	One with Lithikumases
+348	348001	One with Warmasters
+349	349001	One with Warlords
+350	350001	One with Giants
+351	351001	All by Myself
+352	352001	Imperfect Crystals
+353	353001	Ideal Crystals
+354	354001	Take Flight
+355	355001	Let Go
+356	356001	Fashion Icon
+357	357001	Val Aureum Vanarch
+358	358001	Westonia Vanarch
+359	359001	Sylvanoth Vanarch
+360	360001	Island of Dawn Vanarch
+361	361001	Arcadia Vanarch
+362	362001	Poporia Vanarch
+363	363001	Ostgarath Vanarch
+364	364001	Val Elenium Vanarch
+365	365001	Essenia Vanarch
+366	366001	Val Palrada Vanarch
+367	367001	Lorcada Vanarch
+368	368001	Iron Fist
+369	369001	Velvet Glove
+370	370001	World Leader
+371	371001	Full-Time Job
+372	372001	Black Death
+373	373001	All You Need Is Lore
+374	374001	BAM!
+375	375001	BAM BAM!
+376	376001	Here Be Dracoloths
+377	377001	I Love TERA
+378	378001	Beloved
+379	379001	Love-Lettered
+380	380001	Propagating Propaganda
+381	381001	There Is No BAD Chocolate
+382	382001	Agnitor
+383	383001	Agnitor Adored
+384	384001	My Credit Is Good
+385	385001	Get on Your High Horse
+386	386001	Catch the Nexus Wave
+387	387001	Agnitor Agenda
+388	388001	Nixed Nexus!
+389	389001	Be a Raid, Be Very a Raid
+390	390001	You Are Not Prepared!
+391	391001	Five Strikes and You're Out
+392	392001	Small Time
+393	393001	Nexus Time
+394	394001	Big Time
+395	395001	Time Lord
+396	396001	Close but No Cigar
+397	397001	I Saw It with My Own Eyes
+398	398001	Granarkus's Triumph
+399	399001	Argonea's Triumph
+400	400001	Khanovar Front's Triumph
+401	401001	Make the Most of It
+402	402001	Clean Sweep
+403	403001	Absolute Agnitor
+404	404001	Nexus Nihilism
+405	405001	End of the Ride
+406	406001	This Little Pigling Went...
+407	407001	In the Red
+408	408001	The Link to Linkia
+409	409001	Of Boxes and Botany
+410	410001	Lay Hold to Thrallhold
+411	411001	Tower of Rubble
+412	412001	Tirkai Tough Guy
+413	413001	Mentee or Mental?
+414	414001	The Write Stuff
+415	415001	Light and Day
+416	416001	Pesticide
+417	417001	Instance Success
+418	418001	Instance Gratification
+419	419001	I Learned a Thing or Two
+420	420001	To the Max!
+421	421001	Warrior Prime
+422	422001	Lancer Prime
+423	423001	Slayer Prime
+424	424001	Berserker Prime
+425	425001	Sorcerer Prime
+426	426001	Archer Prime
+427	427001	Priest Prime
+428	428001	Mystic Prime
+429	429001	Tower Inferno
+430	430001	Rat-a-tat-tat-tat!
+431	431001	Checkmate
+432	432001	Kumassacre
+433	433001	Calling of the Angel
+434	434001	Blessing of the Faerie
+435	435001	Clover's Friend
+436	436001	Val Tirkai Vanarch
+437	437001	Helkan District Vanarch
+438	438001	Val Kaeli Vanarch
+439	439001	Veritas District Vanarch
+440	440001	End of Sovereignty
+441	441001	Closure
+442	442001	A Poke in the Eye
+443	443001	Bellicarium!
+444	444001	Fraywind One
+445	445001	Fraywind Trio
+446	446001	Fraywind Quintet
+447	447001	Fraywind Ten
+448	448001	Fraywind One Hundred
+449	449001	Fraywind Five Hundred
+450	450001	Fraywind Canyon: Bronze
+451	451001	Fraywind Canyon: Silver
+452	452001	Fraywind Canyon: Gold
+453	453001	Rotten to the Core
+455	455001	Peerless Gladiator
+456	456001	Almost the Pinnacle
+457	457001	The Lure of Combat
+458	458001	An Achievement You Can't Refuse
+459	459001	Prelude to the Massacre
+460	460001	Puddle of Blood
+461	461001	Pile of Corpses
+462	462001	Carnage Everywhere
+463	463001	On Your Knees, Weaklings!
+464	464001	Top of the Charts
+465	465001	Legendary Slaughterer
+466	466001	It's Finally Mine...
+467	467001	It's Finally Mine...
+468	468001	It's Finally Mine...
+469	469001	It's Finally Mine...
+470	470001	It's Finally Mine...
+471	471001	It's Finally Mine...
+472	472001	It's Finally Mine...
+473	473001	It's Finally Mine...
+474	474001	Can't Control the Power
+475	475001	Which Candy?
+476	476001	Easy as Pie
+477	477001	Winter's Savior
+478	478001	Unique Snowflake
+479	479001	Accumulated Flurries
+480	480001	Snowstorm Warning
+481	481001	The Next Ice Age
+482	482001	Beat the Rush
+483	483001	Taking the Road Not Taken
+484	484100	Ruler of Arun
+485	484200	Ruler of Southern Shara
+486	484300	Ruler of Northern Shara
+487	484110	Free Traders Collective echelon 1
+488	484210	Enlightened Union echelon 1
+489	484310	Iron Order echelon 1
+490	484111	Free Traders Collective echelon 2
+491	484211	Enlightened Union echelon 2
+492	484311	Iron Order echelon 2
+493	484112	Free Traders Collective echelon 3
+494	484212	Enlightened Union echelon 3
+495	484312	Iron Order echelon 3
+496	484113	Free Traders Collective echelon 4
+497	484213	Enlightened Union echelon 4
+498	484313	Iron Order echelon 4
+499	499001	Dynamic Duo
+500	500001	Raider of the Lost God
+501	501001	That's No Air Raid
+502	502001	Think like a Pirate
+503	503001	Talk like a Pirate
+504	504001	Stink like a Pirate
+505	505001	Walk like a Pirate
+506	506001	Shouldn't a Festival Be More...Festive?
+507	507001	I Said Freeze!
+508	508001	Snake-Eyed
+509	509001	Triple Crown
+510	510001	Tanks a Lot
+511	511001	Cry Me a River
+512	512001	Dance-A-Thon
+513	513001	Stop Hogging the Kills
+514	514001	Mind's Eye
+515	515001	Sand Castle Baby
+516	516001	Sand Castle Artist
+517	517001	King of the Sand Castles
+518	518001	Call Me Sandy
+519	519001	Eat! Drink! Cook! Enjoy Rootstock!
+520	520001	All the Prizes Are Mine!
+521	521001	Please Drunk Responsibility
+522	522001	Good Eats
+523	523001	Stairway to Heaven
+524	524001	Croakfest
+525	525001	Where's the Brain?
+526	526001	Weatherbeaten
+527	527001	Mondays Always Get Me Down
+528	528001	Now All I Need Is a Lamp.
+529	529001	Welcome to Kumasylum!
+530	530001	Gone Crazy in Kumasylum!
+531	531001	Gone around the Bend in Kumasylum
+533	533001	Welcome to Iron Battleground
+534	534001	Cannons, Fire!
+535	535001	One with the Tank
+536	536001	Bulls-eye!
+537	537001	Press the Attack!
+540	540001	Stronghold First
+541	541001	Stronghold Uncommonality
+542	542001	Stronghold Rarity
+543	543001	Stronghold Superior
+544	544001	Stronghold Legend
+550	550001	Bombastic
+551	551001	Bomb Blast
+552	552001	Bomb Squad
+553	553001	Bombing Run
+554	554001	Bomb Factory
+555	555001	What? I Won?
+556	556001	Let's Get It Started
+557	557001	I Love this Game!
+558	558001	I Will Find You...
+559	559001	Shoot'em Up
+560	560001	Top of the Heap
+561	561001	Rise Above the Rest
+562	562001	You're The Best...Around!
+563	563001	Super Pit Fighter
+564	564001	Kumas Dreaming
+565	565001	Is Kumas Me or Am I Kumas?
+567	567001	I Am the King
+568	568001	Looking for Pallialith?
+569	569001	Most Dangerous Catch
+570	570001	Find the Golden Eggs, Part 1
+571	571001	Find the Golden Eggs, Part 2
+572	572001	Find the Golden Eggs, Part 3
+573	573001	You want my treasures? Find them yourself! I've hidden all my eggs.
+574	574001	Rootstock: Kick-Bale Gift Box Jackpot!
+575	575001	Rootstock: Pigling Rodeo Gift Box Jackpot!
+576	576001	Rootstock: Fast and Quick
+577	577001	Busy! So busy!
+578	578001	Pond Faire: Like Mom
+579	579001	Pond Faire: I am the Protector!
+580	580001	Snowfight Newbie
+581	581001	Town Prankster
+582	582001	Winter Is Coming
+583	583001	Snow Kills?!
+584	584001	Snowlord
+586	586001	Pond Faire: Where is Music!?
+587	587001	Babysitting?
+588	588001	Love, Courage, and Delivery
+600	600001	You Can't Believe Your Eyes
+601	601001	Perfect Execution
+602	602001	Free Traders Assault Commander
+603	603001	Enlightened Union Assault Commander
+604	604001	Iron Order Assault Commander
+605	605001	Free Traders Defense Commander
+606	606001	Enlightened Union Defense Commander
+607	607001	Iron Order Defense Commander
+608	608001	Free Traders Adjunct Commander
+609	609001	Enlightened Union Adjunct Commander
+610	610001	Iron Order Adjunct Commander
+611	611001	Triply Charming
+612	612001	Nico Nico 2015 Participant
+613	613001	Nico Nico 2015 Participant
+701	701001	Lead Reaper
+702	702001	Reaper Secundus
+703	703001	Reaper Prime
+706	706001	Routed a Reaper
+707	707001	Prone to Violence.
+708	708001	Pull!
+709	709001	From Hell's Heart!
+711	711001	Purge the Infection
+712	712001	Out of the Darkness, Into the Light
+713	713001	Trumped Tower
+714	714001	Lead Brawler
+715	715001	Brawler Secundus
+716	716001	Brawler Prime
+717	717001	Prone to Violence
+718	718001	All the Rage
+719	719001	Knocking on Heaven's Door
+720	720001	Beat Down a Brawler
+721	721001	Cutting-Edge Brawler
+722	722001	Quick Ninja
+723	723001	Genin
+724	724001	Chuunin
+725	725001	Prone to Violence
+726	726001	Dead Meat
+727	727001	All Downhill from Here
+728	728001	Neutralized a Ninja
+729	729001	Jounin
+730	730001	Lead Valkyrie
+731	731001	Valkyrie Secundus
+732	732001	Valkyrie Prime
+733	733001	Prone to Violence
+734	734001	Up and Down
+735	735001	Twilight of the Gods
+736	736001	Glorious Victory
+737	737001	A Cut Above
+777	777001	Working Out in the Channelworks
+778	778001	Larva 'n Let Die
+779	779001	Larvae Hate
+800	800001	Holme, Sweet Holme
+802	802001	Jax Trust Trusts You!
+803	803001	Killing Spree Spry
+804	804001	Taking All the Credit
+805	805001	Credit to the Family
+806	806001	Extra Credit
+807	807001	Unstoppable Killing Spree
+808	808001	Who Kills the Killing Spree?
+809	809001	Who Kills the Killing Spree?
+810	810001	Who Kills the Killing Spree?
+811	811001	Who Kills the Killing Spree?
+812	812001	Who Kills the Killing Spree?
+813	813001	Who Kills the Killing Spree?
+814	814001	Who Kills the Killing Spree?
+815	815001	Who Kills the Killing Spree?
+816	816001	Bellicarium Ambassador
+817	817001	Unshakable Loyalty
+818	818001	Reputation Is Everything
+819	819001	HP Potion Tippler
+820	820001	HP Potion Drinker
+821	821001	HP Potion Guzzler
+822	822001	MP Potion Tippler
+823	823001	MP Potion Drinker
+824	824001	MP Potion Guzzler
+825	825001	Two-Fisted Drinker
+826	826001	Legendary Looter
+827	827001	Uncommon Valor
+828	828001	In Rare Form
+829	829001	Superior Court C
+830	830001	Bulging Bag
+832	832001	Moving On Up
+833	833001	Live by the Battleground, Die by the Battleground
+834	834001	Take 'Em All Down
+835	835001	Bathed in Blood
+836	836001	Island of Dawn Mission Specialist
+837	837001	Velika Mission Specialist
+838	838001	Allemantheia Mission Specialist
+839	839001	Kaiator Mission Specialist
+840	840001	Special Forces
+841	841001	Nexus Mastery
+842	842001	You Complete Me
+843	843001	Perfect Ten
+844	844001	Turn It Up to Eleven
+845	845001	An Even Dozen
+846	846001	One Enchanted Evening
+847	847001	Elegance Squared
+848	848001	The One Percent
+849	849001	TERA Tycoon
+850	850001	Famed Weapon Maker
+851	851001	Meticulous Armor Maker
+852	852001	Factory Owner
+853	853001	Enter the Echelon
+854	854001	Self-Sufficient
+855	855001	Flanking > Planking
+856	856001	Flank You Very Much
+857	857001	Bastion Flanker
+858	858001	Bastion Conqueror
+859	859001	Punish the Traitor!
+860	860001	More like Sinestral Minor
+861	861001	Sinestral Conqueror
+862	862001	Critically Acclaimed
+863	863001	Silly Cultists, Tricks Are for Kids
+864	864001	Cultists' Refuge: Conquest
+865	865001	Flipping Out Gulsig
+866	866001	Recalculating
+867	867001	Final Destination
+868	868001	Akasha's Left Hand
+869	869001	Akasha's Right Hand
+870	870001	Restraining Order
+871	871001	Nowhere to Hide
+872	872001	Southern Arun Dungeoneer
+873	873001	And Stay Down!
+874	874001	Exorcise Regimen
+875	875001	Dead Inside
+876	876001	Death, Be Not Proud
+877	877001	Cheating Death
+878	878001	One Thing at a Time
+879	879001	Get in Line
+880	880001	Methodical and Efficient
+881	881001	Stretch Out with Your Feelings
+882	882001	Have a Nice Trip?
+883	883001	Cutthroat Tourist
+884	884001	Show Me Where It Hurts
+885	885001	Critical Care
+886	886001	Prayed Upon
+887	887001	Sun Temple Pilot
+888	888001	Southern Shara Dungeoneer
+889	889001	Killing Jokers
+890	890001	Chaos Rising
+891	891001	Dragons in Dungeons
+892	892001	Shock Value
+893	893001	Maze Runner
+894	894001	Fear Itself
+895	895001	Blaze a Trail
+896	896001	Terror of Terrors
+897	897001	Siege Tower
+898	898001	General Mayhem
+899	899001	Pick Your Poison
+900	900001	Who Hesitates Is Lost
+901	901001	Towering Rage
+902	902001	Fear Is Not an Option
+903	903001	Song of Fire and Ice
+904	904001	Nesting Instinct
+905	905001	Perfection Nest
+906	906001	Kraken Up
+907	907001	Where Is Thy Sting?
+909	909001	The Final Push
+910	910001	Hard Core Queen
+911	911001	An Audience with the Queen
+912	912001	The Thing That Would Be Queen
+913	913001	Manaya's Core Conqueror
+914	914001	Northern Shara Dungeoneer
+915	915001	Dungeon-Delving Devotee
+916	916001	Hold On Loosely, But Don't Let Go
+917	917001	What Do You Make of This?
+918	918001	Big Game Hunter
+919	919001	Southern Arun Vistas
+920	920001	Oblivion Vista
+921	921001	Vista: Islands Two
+922	922001	Vista Mix
+923	923001	Neither Sand, nor Snow, nor Gloom of Night...
+924	924001	Up, Down, and All Around
+925	925001	Crescentia Tourist
+926	926001	Lumbertown Tourist
+927	927001	Jewel of the Desert Vista
+928	928001	Waterfall Vista
+929	929001	Bird's Eye View
+930	930001	Southern Shara Vistas
+931	931001	Pora Elinu Tourist
+932	932001	Popolion Tourist
+933	933001	Chebika Tourist
+934	934001	Tulufan Tourist
+935	935001	Kaiator Vista
+936	936001	Susurrus Vista
+937	937001	Argon Vista
+938	938001	Northern Shara Vistas
+939	939001	Castanica Tourist
+940	940001	Tralion Tourist
+941	941001	Tria Tourist
+942	942001	Elenea Tourist
+943	943001	World Class
+944	944001	Bountiful Hunter
+945	945001	Clawed Your Way to the Top
+946	946001	Get the Big Picture
+947	947001	Focus on the Details
+948	948001	Strive for Balance
+950	950001	Southern Arun Tourist Attractions
+951	951001	Southern Shara Tourist Attractions
+952	952001	Northern Shara Tourist Attractions
+953	953001	Tourist Trap
+954	954001	Rare Arbosk
+955	955001	Rare Ashstalker
+956	956001	Rare Sporewalker
+957	957001	Rare Finds in Fyrmount
+958	958001	Rare Mugato
+959	959001	Rare Maligos
+960	960001	Rare Arachnen
+961	961001	Rare Finds in Frost Reach
+962	962001	Rare Argonomorph Orcan
+963	963001	Rare Argonomorph Frogrider
+964	964001	Rare Argonomorph Wendigo
+965	965001	Rare Threats in Thrallhold
+966	966001	I Like My Meat Rare
+967	967001	Well Traveled
+968	968001	Which Castle
+969	969001	Line in the Sand
+970	970001	Snow Job
+971	971001	On a High Note
+972	972001	Temple Run
+973	973001	Bridge Partner
+974	974001	Monumental Effort
+975	975001	All My Life
+976	976001	Bellicose to the Max
+977	977001	Frontera Tourist
+978	978001	Bleakrock Tourist
+979	979001	Bastion Tourist
+980	980001	Acarum Tourist
+981	981001	Dragonfall Tourist
+982	982001	Kanstria Tourist
+983	983001	Scythera Fae Tourist
+984	984001	Pathfinder Post Tourist
+985	985001	Zulfikar Fortress Tourist
+986	986001	Habere Tourist
+987	987001	DlueHole Cheevos
+988	988001	Bug Zapper
+989	989001	Meet the Beetles
+990	990001	Beetle Juice
+991	991001	Arc-Angel
+992	992001	More Where That Came From
+993	993001	Beetlemania
+996	996001	Back to the Past
+1001	1001001	Diving in Deep
+1002	1002001	Groove to the Island Music
+1003	1003001	Quintessential Ice Dancer
+1004	1004001	Party like a Swamp Thing
+1005	1005001	Splish Splash
+1006	1006001	Hot Time in the Summertime
+1007	1007001	Dragon Husbandry
+1008	1008001	Here Be Dragons
+1009	1009001	We Didn't Start the Fyre
+1010	1010001	Ecstasy of Gold
+1011	1011001	Green-Eyed Monsters
+1012	1012001	Forget the Ivory
+1013	1013001	Always a Silver Lining
+1014	1014001	Dragons of Myth
+1015	1015001	Dragons of Fable
+1016	1016001	Dragons of Legend
+1017	1017001	Dragons of Might
+1100	1100001	Canyon Clash Champion
+1101	1101001	Canyon Clash Champion
+1102	1102001	Canyon Clash Champion
+1103	1103001	Canyon Clash Champion
+1104	1104001	Canyon Clash Champion
+1105	1105001	Canyon Clash Champion
+1106	1106001	Canyon Clash Champion
+1107	1107001	Canyon Clash Champion
+1108	1108001	2012 Canyon Clash Champion
+1109	1109001	Canyon Clash Champion!
+1110	1110001	Canyon Clash Champion!
+1111	1111001	Canyon Clash Champion!
+1112	1112001	Canyon Clash Champion!
+1113	1113001	Canyon Clash Champion!
+1114	1114001	Canyon Clash Champion!
+1115	1115001	Canyon Clash Champion!
+1118	1118001	2015 Dungeon Tournament: All Servers
+1119	1119001	2015 Dungeon Tournament: Killian
+1120	1120001	2015 Dungeon Tournament: Fraya
+1121	1121001	2015 Dungeon Tournament: Hasmina
+1122	1122001	2015 Dungeon Tournament: Elinu
+1123	1123001	2015 Dungeon Tournament: Veritas
+1124	1124001	2015 Dungeon Tournament: Arcadia
+1125	1125001	2015 Dungeon Tournament: Kaidun
+1126	1126001	2015 Dungeon Tournament: Zenobia
+1127	1127001	2015 Dungeon Tournament: Akasha
+1128	1128001	2015 Dungeon Tournament: Icaruna
+1300	1300001	Master Warrior
+1301	1301001	Master Lancer
+1302	1302001	Master Slayer
+1303	1303001	Master Berserker
+1304	1304001	Master Sorcerer
+1305	1305001	Master Archer
+1306	1306001	Master Priest
+1307	1307001	Master Mystic
+1308	1308001	Vacation's Over!
+1309	1309001	Vacation's Over!
+1310	1310001	Vacation's Over!
+1311	1311001	Vacation's Over!
+1312	1312001	Vacation's Over!
+1313	1313001	Vacation's Over!
+1314	1314001	Vacation's Over!
+1315	1315001	Vacation's Over!
+1316	1316001	Cannon Control
+1317	1317001	Seasonal Squash
+1318	1318001	Me, Myself, I
+1319	1319001	Me, Myself, X
+1320	1320001	Me, Myself, L
+1321	1321001	Me, Myself, C
+1322	1322001	Smelting Apprentice
+1323	1323001	Processing Apprentice
+1324	1324001	Etching Apprentice
+1325	1325001	Alchemical Apprentice
+1326	1326001	Smelting Artisan
+1327	1327001	Processing Artisan
+1328	1328001	Etching Artisan
+1329	1329001	Alchemy Artisan
+1330	1330001	It's an Art
+1331	1331001	Smelting Master
+1332	1332001	Processing Master
+1333	1333001	Etching Master
+1334	1334001	Alchemy Master
+1335	1335001	Cooking Apprentice
+1336	1336001	Cooking Artisan
+1337	1337001	Cooking Master
+1338	1338001	Candies are mine!
+1339	1339001	Happy Howl-o-ween!
+1401	1401001	It Came to Me in a Dream
+1402	1402001	Unleash the Wind
+1403	1403001	Sweet Beams
+1404	1404001	Dark Rift (Spring Valley)
+1405	1405001	Dark Rift (Ex Prima)
+1406	1406001	Dark Rift (Arx Umbra)
+1407	1407001	Alpha State
+1408	1408001	1st place in GVG
+1411	1411001	Told You I Could Fit!
+1412	1412001	Take Center Stage
+1413	1413001	Arsenal of Injustice
+1414	1414001	There are TWO Lights!
+1415	1415001	The Three Buggy Problem
+1416	1416001	One Flew Over Nimistrix's Nest
+1417	1417001	Water From the Sky
+1418	1418001	Party Like A Pirate
+1419	1419001	Teeny Tiny Crabby Babies
+1420	1420001	Strangely Familiar...
+1421	1421001	The Archdevan Mystique
+1422	1422001	One Fish, Two Fish
+1423	1423001	Putting the Pieces Together
+1424	1424001	Never Enough
+1425	1425001	Memories of Dawn
+1426	1426001	DID YOU HEAR SOMETHING?
+1427	1427001	Chione's Last Stand
+1428	1428001	White Horse Down
+1429	1429001	Stone Sentinel
+1430	1430001	Final Expedition
+1431	1431001	Never Forget
+1500	1500001	Got Your Wings
+1600	1600001	When I'm 65!
+1601	1601001	First to Fight
+1602	1602001	High Five
+1603	1603001	Cutting a Swath
+1604	1604001	Northern Arun Campaign Veteran
+1605	1605001	Breaking Up Is Hard To Do
+1606	1606001	Break Time
+1607	1607001	Break Dance
+1608	1608001	Quick Fuse
+1609	1609001	Fusion Beat
+1610	1610001	Fusion Bomb
+1611	1611001	My Best Friend Is a Miner
+1612	1612001	The Green Reaper
+1613	1613001	Energy Vortex
+1614	1614001	All Mine
+1615	1615001	Font of Knowledge
+1616	1616001	Nagabane
+1617	1617001	Raiga, Raiga Burning Bright
+1618	1618001	Sentinel from Another Age
+1619	1619001	Bring Death to the Unliving
+1620	1620001	Bearing Arms
+1621	1621001	A Force To Be Reckoned With!
+1622	1622001	What a View
+1623	1623001	Highest Marks
+1624	1624001	An Ancient Puzzle
+1625	1625001	Lost Clues
+1626	1626001	Enshrined
+1627	1627001	Power Up!
+1628	1628001	Ain't No Mountain High Enough
+1629	1629001	Silent Hills
+1630	1630001	Ribbidi Bobbidi Boo!
+1631	1631001	Off the Beaten Path
+1632	1632001	Baggage Handling
+1633	1633001	In the Event of a Water Landing
+1634	1634001	Do You Hear What I Hear?
+1635	1635001	Better Living through Chemistry
+1636	1636001	Quest for the High Elder
+1637	1637001	Delving into the Past
+1638	1638001	Staying Alive
+1639	1639001	Out for Blood
+1640	1640001	Neither Forgiven nor Forgotten
+1641	1641001	You and What Armory?
+1642	1642001	Safety-Sealed for Your Protection
+1643	1643001	Good with Plants
+1644	1644001	Good Gardener
+1645	1645001	Spike Dislike
+1646	1646001	You Build, I Break
+1647	1647001	Buzzed
+1648	1648001	Totally Tuberelle
+1649	1649001	Sabex Subjugator
+1650	1650001	Brought to Justice
+1651	1651001	Slaughter, Rinse, Repeat
+1652	1652001	Cut Down to Size
+1653	1653001	Pure as the Driven Snow
+1654	1654001	Hungry Hungry Demokrons
+1655	1655001	Untouchable
+1656	1656001	Ending the Nightmare
+1657	1657001	A Cut Above
+1658	1658001	A Cut Above
+1659	1659001	A Cut Above
+1660	1660001	A Cut Above
+1661	1661001	A Cut Above
+1662	1662001	A Cut Above
+1663	1663001	A Cut Above
+1664	1664001	A Cut Above
+1665	1665001	A Cut Above
+1666	1666001	Bird of Prey
+1667	1667001	All You Can Beat
+1668	1668001	Flower Power
+1669	1669001	Can't Touch This
+1670	1670001	Eggscellent
+1671	1671001	Original or Extra Crispy?
+1672	1672001	Gimme a Beat...down
+1673	1673001	Completely Plucked
+1674	1674001	Vanquished the Ravager
+1675	1675001	Vanquished Nemesis
+1676	1676001	Death to the Tenth Power
+1677	1677001	Greased Lightning
+1678	1678001	Shell Game
+1679	1679001	Taking the Plunge
+1680	1680001	Unflappable
+1681	1681001	Lightning Rod
+1682	1682001	Rising to the Challenge
+1683	1683001	Lightning Round
+1684	1684001	Nemesis No More
+1685	1685001	Take a Hint
+1686	1686001	Clean Living
+1687	1687001	Tokka Annihilation
+1688	1688001	Don't Need a Bigger Boat
+1690	1690001	Pop the Bubbles
+1691	1691001	Risen Master
+1692	1692001	Relaxing by the Pool
+1693	1693001	Things Fall Apart
+1694	1694001	On Wings of Demokrons
+1695	1695001	Demokron Massacre
+1696	1696001	Rock Solid Defense
+1697	1697001	Stand Your Ground
+1698	1698001	Sky Captain
+1699	1699001	Fiery Endeavor
+1700	1700001	Wings of Fire
+1701	1701001	Boneless Victory
+1702	1702001	Body Heat
+1703	1703001	Unmarked by Darkness
+1704	1704001	Powered Up
+1705	1705001	Sky Commander
+1706	1706001	Powered Through
+1707	1707001	Going the Distance
+1708	1708001	Hera's Fortress Security Guard
+1709	1709001	What's in The Box?
+1710	1710001	Faster than a Speeding Arrow
+1711	1711001	Yo, Elleon, I did it!
+1712	1712001	Shatter the Phantom of the Queen
+1713	1713001	Lead Gunner
+1714	1714001	Gunner Secundus
+1715	1715001	Gunner Prime
+1716	1716001	Prone to Violence
+1717	1717001	Ready, Aim, Fire
+1718	1718001	BOOM! HEADSHOT!
+1719	1719001	Hammered a Gunner
+1720	1720001	Cutting-Edge Gunner
+1721	1721001	Ooh, You Make Me Live
+1722	1722001	Whatever This World Can Give to Me
+1723	1723001	Been With You Such a Long Time
+1724	1724001	Still Come Back to You
+1725	1725001	I Got You to Help Me Forgive
+1726	1726001	When Things Turn Out Bad
+1727	1727001	You Know I'll Never Be Lonely
+1728	1728001	I'm Happy, Happy at Home
+1730	1730001	First through the Door
+1731	1731001	Crop-Dusted
+1732	1732001	No Strings Attached
+1734	1734001	Wish You Weren't Here
+1735	1735001	Dead Or Alive Or...
+1736	1736001	This Won't Hurt A Bit
+1737	1737001	Better Watch Your Step
+1738	1738001	Just A Jump To The Left
+1739	1739001	It's Strangely Comforting
+1740	1740001	Personal Best
+1741	1741001	Vault of Kaprima Conqueror
+1742	1742001	Rock Crushing
+1743	1743001	It's Just A Rock
+1744	1744001	It's Damn Hot
+1745	1745001	Somebody Stomp Me!
+1746	1746001	I'm A Rock Legend!
+1747	1747001	Filthy Argon Parasite
+1748	1748001	Destined To Die
+1749	1749001	Fulfilling The Legend
+1750	1750001	Saravash's Ascent Conqueror
+1751	1751001	To Be The Pirate King.
+1752	1752001	Eliminate The Red Pirate
+1753	1753001	Ahoy, Ahoy!
+1754	1754001	A Pirate's Life For Me
+1755	1755001	The Honor of a Quick Death
+1756	1756001	Fourth Anniversary
+1757	1757001	Movement of the Spheres
+1758	1758001	Round and Round and Round We Go!
+1759	1759001	Get a Charge out of Life
+1760	1760001	As Above...
+1761	1761001	So Below...
+1762	1762001	Around the World
+1763	1763001	Adventure in Space and Time
+1764	1764001	Time Flies When You Have None
+1765	1765001	The Master of Timespace
+1766	1766001	Timescape Conqueror
+1767	1767001	Hard as a Rock
+1768	1768001	The Mountain to the Sea
+1769	1769001	Moisturize Me
+1770	1770001	What A Pretty Priestess
+1771	1771001	Dignity of a Gentleman
+1772	1772001	Don't Blink. Don't Think.
+1773	1773001	Conqueror of the Inferno
+1774	1774001	Thunderbolts and Lightning!
+1775	1775001	Up, Up and Away!
+1776	1776001	Stop Shooting Me!
+1777	1777001	Round and Round We Go...Again
+1778	1778001	Nimble Little Minx
+1779	1779001	Boom Goes the Dynamite!
+1780	1780001	Really, I Feel Fine...
+1781	1781001	I've Crossed Oceans of Time
+1782	1782001	The Hitchhiker's Guide to Timespace
+1783	1783001	Muh-Muh-Muh-My Valona!
+1784	1784001	Flatten the Continuum
+1785	1785001	Parallel Hunter
+1788	1788001	Unexpected and Unwelcome
+1789	1789001	Come Hard or Not at All
+1790	1790001	Five O'Clock Shadow
+1791	1791001	Fresh Legs
+1792	1792001	Quicker than Lightning
+1793	1793001	Bad Luck Charlie
+1794	1794001	Have We Met?
+1795	1795001	Fire Fire FIRE!
+1796	1796001	Spark-tastic
+1797	1797001	Shock and Awe
+1798	1798001	Slip'n'Slide
+1799	1799001	Storm of the Century
+1800	1800001	Power Hour
+1801	1801001	High Boltage
+1802	1802001	Treasure Hunt
+1803	1803001	Reading and Writing
+1804	1804001	Toad the Line
+1805	1805001	Don't Blink
+1806	1806001	It's Settled, Then
+1807	1807001	A Light in the Darkness
+1808	1808001	Curse Breaker
+1809	1809001	May You Rest in Peace
+1810	1810001	Dead Aman Walking
+1811	1811001	Quick on Your Feet
+1812	1812001	Ethereal Chills
+1813	1813001	Touched by Darkness
+1814	1814001	4th Anniversary
+1817	1817001	You can't trust every rumor!
+1818	1818001	Suit Up!
+1819	1819001	Double Tapped
+1820	1820001	Just a Jump to the Left
+1821	1821001	Wake Up Screaming
+1822	1822001	Ready to Believe You
+1823	1823001	No Hiding Place Down There
+1824	1824001	All the Ghosts and Goblins
+1825	1825001	After the Afterlife
+1826	1826001	Bring Me to Life
+1827	1827001	Top Ten Hits
+1828	1828001	Master of Forsaken Island
+1830	1830001	It's Just a Jump to the Left
+1831	1831001	Wait for the Bat Signal
+1832	1832001	Gross!
+1833	1833001	Chuckstruck
+1834	1834001	It's in my Hair!
+1835	1835001	Sp-sp-sp-splash Zone!
+1836	1836001	Catastrophic Contagion
+1837	1837001	Dermal Charge
+1838	1838001	Caught in the Blast Radius
+1839	1839001	Collateral Damage
+1840	1840001	Defeat Verno
+1841	1841001	Defeated Nightmare Verno
+1842	1842001	Defeat Odoninos
+1843	1843001	Defeat Elite Odoninos
+1844	1844001	Triangulation
+1845	1845001	Driving a Wedge
+1846	1846001	Dakuryon's Notes
+1847	1847001	Diary of a Mad Scientist
+1848	1848001	Magic Is in the Blood
+1849	1849001	Missed by a Stone's Throw
+1850	1850001	Ultimate Eradication
+1851	1851001	The Hand is Quicker Than the Eye
+1852	1852001	I Never Get Tired of This
+1853	1853001	Vengeance is Mine
+1855	1855001	A Race Through Shadow
+1856	1856001	Purging the Unclean
+1857	1857001	I Could Do This All Day!
+1859	1859001	Early Release Program
+1860	1860001	Sanguinary Archers
+1861	1861001	Sanguinary Knights
+1863	1863001	Sanguinary Warriors
+1864	1864001	Summoning Sickness
+1865	1865001	Long Time No See
+1866	1866001	Nice to Meet You
+1867	1867001	Caimans Up to Here
+1868	1868001	Lord of the Labyrinth
+1869	1869001	Lord of the Hideout
+1870	1870001	Up to Your Neck in Caimans
+1871	1871001	Rated Mostly False
+1872	1872001	Lying in Weight
+1873	1873001	Liar, Liar, Pants on Fire!
+1874	1874001	You Lied to Me!
+1875	1875001	Green Around the Gills
+1876	1876001	Truth Will Set You Free
+1877	1877001	Polygraph Test
+1880	1880001	Nightmare Smite
+1881	1881001	Wax Rhapsodic
+1882	1882001	Wax On, Wax Off
+1883	1883001	Is This Real Life?
+1884	1884001	Overcome Temptation
+1885	6900	My Little Prince
+1886	6910	Big thing in a small package!
+1890	1890001	Burning at Both Ends
+1891	1891001	Give in to Temptation
+1892	1892001	Harsh Mistress
+1893	1893001	Sweet Temptation
+1894	1894001	Moral Minority
+1895	1895001	She's No Lady
+1896	1896001	Like a Bad Penny
+1897	1897001	Fits of Rage
+1898	1898001	Another Mouth to Feed
+1899	1899001	Laser Tag
+1900	1900001	Starting EP System!
+1901	1901001	EP Rookie
+1902	1902001	EP Veteran
+1903	1903001	EP Champion
+1904	1904001	Velika is Ours!
+1905	1905001	Rewriting History
+1906	1906001	Double Double
+1907	1907001	Did I Do That?
+1908	1908001	Death's Adept
+1909	1909001	Death's Centurion
+1910	1910001	Death's Legionnaire
+1911	1911001	You'll Pay For This!
+1912	1912001	Ow, Quit It!
+1913	1913001	Really? Really?
+1914	1914001	Tear It Down!
+1915	1915001	Tear Them All Down!
+1916	1916001	Lord of the Lake
+1917	1917001	Tyrant of Gidd Mountain
+1918	1918001	King of Crabs
+1919	1919001	Drag the Lake
+1920	1920001	Climb Every Mountain
+1921	1921001	Get Crackin'
+1922	1922001	I'm So Over You
+1923	1923001	You've Lost That Lovin' Feeling
+1924	1924001	Queen of the Damned
+1925	1925001	Recurring Nightmare
+1926	1926001	Undying Fury
+1927	1927001	Soulless Embrace
+1928	1928001	Sidestep the Issue
+1929	1929001	Soul Survivor
+1930	1930001	Fortress Around Your Heart
+1931	1931001	Get over Here!
+1932	1932001	Aired Out
+1933	1933001	Rally, Rinse, Repeat
+1934	1934001	Dragon Drop
+1935	1935001	Dragon Slayer
+1936	1936001	Head Dragon Slayer
+1937	1937001	Conquerer of Harrowhold
+1938	1938001	Against the Dragons
+1939	1939001	A Trail of Broken Hearts
+1940	1940001	My Skill's Better Than Yours
+1941	1941001	Who's Your Daddy?
+1942	1942001	Fire in the Hold
+1943	1943001	Dust in the Wind
+1944	1944001	Master of Harrowhold
+1945	1945001	Lucky Seven
+1946	1946001	Fifteenth Farewell
+1947	1947001	Head Off
+1950	1950001	No Prisoners
+1951	1951001	No Escape
+1952	1952001	Otherworldly Matters
+1953	1953001	No Spark, No Fire
+1954	1954001	Total Killjoy
+1955	1955001	Playing with Portals
+1956	1956001	Ready for Lakan
+1957	1957001	Tales of the Valkyrie
+1958	1958001	Choose Your Battles
+1959	1959001	Smokejumper
+1960	1960001	Float Like a Butterfly
+1961	1961001	No Holds Barred
+1962	1962001	Caught in the Act
+1963	1963001	Veldeg's Worse Nightmare
+1964	1964001	Held Back
+1965	1965001	Nevertheless, We Persisted
+1966	1966001	Smackdown
+1967	1967001	Boom and Bust
+1968	1968001	Pound for Pound
+1969	1969001	Clotting Factor
+1970	1970001	Holding the Record
+1971	1971001	Shattering Expectations
+1972	1972001	Deicide
+1973	1973001	Deca-Deicide
+1974	1974001	Trail of Dead Gods
+1975	1975001	Overcoming Hurdles
+1976	1976001	Per Tenebras
+1977	1977001	Black Hole Sun
+1979	1979001	Nobody's Fuel
+1980	1980001	Ungodly Luck
+1981	1981001	Godslayer
+1982	1982001	Lakan No More
+1983	1983001	Lakan Nevermore
+1984	1984001	No Time For An Evil God
+1985	1985001	Unlocked!
+1986	1986001	Never Dead Enough
+1987	1987001	Fireproof
+1988	1988001	Puny God
+1989	1989001	No Thank You, Evil!
+1990	1990001	Against All Odds... and Evens
+1991	1991001	Pattern Master
+1992	1992001	Pocket Money
+1993	1993001	For the Needy
+1994	1994001	Game of Death
+1995	1995001	Perfect Season
+1996	1996001	Live Dangerously
+1997	1997001	Empowered
+2010	2010001	Is That All You Got?
+2011	2011001	Anger Management
+2012	2012001	We Are Never Ever Ever...
+2013	2013001	Such Research
+2014	2014001	Dat Goblin Tho
+2015	2015001	Get in a Few More Hits
+2016	2016001	For Real This Time
+2017	2017001	Blame the Archdevans
+2018	2018001	Love the Leaves
+2019	2019001	Beamless
+2020	2020001	Quick Kills
+2021	2021001	Protect the Little Guys
+2022	2022001	You Guys Don't Have a Chance!
+2023	2023001	Vortex Rider
+2024	2024001	Shockless
+2025	2025001	De-Pressed
+2026	2026001	Hopscotch
+2027	2027001	Move It Along
+2028	2028001	Weapon Inspection
+2029	2029001	No More Robophobia
+2030	2030001	Words Cannot Express Randun
+2031	2031001	Bomb Squad
+2032	2032001	Short Circuit
+2033	2033001	Off the Radar
+2034	2034001	RK-9 Hacker
+2035	2035001	Mission: Possible
+2036	2036001	Powered Off
+2037	2037001	Blueprinted
+2038	2038001	524B-39 7F
+2039	2039001	Deadliest Hate
+2040	2040001	Equality Comes with Responsibility
+2041	2041001	Hennika's Diary
+2042	2042001	Hennika's Journal
+2043	2043001	Scribbles
+2044	2044001	Picnic in the Red Refuge
+2045	2045001	Let Them Go
+2046	2046001	Let Them Go No Longer
+2047	2047001	Fire Bad
+2048	2048001	Bombshells Rain From Above!
+2049	2049001	No Blood, No Trace
+2050	2050001	Hear Me Roar
+2051	2051001	When You Have Killed Enough, They Stop Fighting
+2052	2052001	How Did You Find Us?
+2053	2053001	We Have a Guest! Again!
+2054	2054001	Torn Memory Fragment
+2055	2055001	Stained Memory Fragment
+2056	2056001	Dusty Memory Fragment
+2057	2057001	Frozen
+2058	2058001	Acrophobia
+2059	2059001	Nothing Can Stun Me
+2060	2060001	Not Guilty
+2061	2061001	Evasion Master
+2062	2062001	Curse Addiction
+2063	2063001	Lightspeed
+2064	2064001	I See Blue
+2065	2065001	To the Abyss and Back
+2066	2066001	Abyss Raider
+2067	2067001	A Piece of Cake!
+2068	2068001	Conquest for Dreadspire.
+2069	2069001	One Credit Clear
+2070	2070001	You Rock!
+2071	2071001	Inordinate Exsanguination
+2072	2072001	On the Brink of Death
+2073	2073001	Off to Slay the Dragon!
+2074	2074001	Leander, I Got You!
+2075	2075001	No Thanks, I Brought My Noseclip!
+2076	2076001	Stomp Smash Smash Stomp
+2077	2077001	Talk About Anticlimactic
+2078	2078001	I Forgot My Safe Word
+2079	2079001	Just Another Demon and Dragon
+2080	2080001	Bad Dragon! Bad!
+2081	2081001	I Should Get Paid for This
+2082	2082001	Elemental Buffet
+2083	2083001	A Must-Have for Cool Villains
+2084	2084001	Demonic Bargain
+2085	2085001	Another Day, Another Demon
+2086	2086001	Straight to Hell
+2087	2087001	Round Trip to Hell
+2088	2088001	Rubberskin
+2089	2089001	I Don't Believe in Elements
+2090	2090001	No Thanks, Lovecraft
+2091	2091001	Bad Diet
+2092	2092001	Demons? More Like Lemons
+2093	2093001	When Life Gives You Demons
+2094	2094001	...Make Demonade?
+2095	2095001	Catch Your Breath
+2096	2096001	Niche Market
+2097	2097001	Rise the Fallen
+2099	2099001	I Wanna Be the Very Best!
+2100	2100001	Catching Them Is the Real Test
+2101	2101001	Transcendent Brawler
+2102	2102001	Transcendent Ninja
+2103	2103001	Transcendent Valkyrie
+2104	2104001	Transcendent Warrior
+2105	2105001	Transcendent Lancer
+2106	2106001	Transcendent Slayer
+2107	2107001	Transcendent Berserker
+2108	2108001	Transcendent Sorcerer
+2109	2109001	Transcendent Archer
+2110	2110001	Transcendent Priest
+2111	2111001	Transcendent Mystic
+2112	2112001	Transcendent Reaper
+2113	2113001	Transcendent Gunner
+2114	2114001	Bug Hunt
+2115	2115001	Bug Control
+2116	2116001	Bugbuster
+2117	2117001	Dam Nectar
+2118	2118001	Sweet as Honey
+2119	2119001	Too Fast To Be
+2120	2120001	Sick of Illusions
+2121	2121001	Loquacious
+2122	2122001	Former Guardian, Current Janitor
+2123	2123001	Murder on the Wing
+2124	2124001	Sick of the Murderwing
+2125	2125001	Not My Time Yet
+2126	2126001	The Perfect Cure
+2127	2127001	Code Red and Blue
+2128	2128001	Fine Dust Alert
+2129	2129001	Evader
+2130	2130001	Too Easy
+2131	2131001	Too Slow!
+2132	2132001	No Time for Games
+2133	2133001	Rest in Peace
+2134	2134001	Gone Wild
+2135	2135001	Dawn of the Exodor War
+2136	2136001	Endgame
+2137	2137001	Not This Time
+2138	2138001	Prepared for Immortality
+2139	2139001	How About a Jump
+2140	2140001	Making it Look Easy
+2141	2141001	Draakon Exposer
+2142	2142001	Chasing Butterflies
+2143	2143001	Resisting the Immortal
+2144	2144001	Becoming the Immortal
+2145	2145001	Exodor Hero
+2146	2146001	Stay Awhile and Listen
+2147	2147001	We Meet Again
+2148	2148001	Above Immortality
+2149	2149001	Are We Done?
+2150	2150001	Playtime
+2151	2151001	Too Slow...Too Slow...
+2152	2152001	You Should Bring Your Friend
+2153	2153001	Who's Next?
+2154	2154001	Arena 3/4
+2155	2155001	Calm the Madness
+2156	2156001	Easier Than It Looks
+2157	2157001	A New Record
+2158	2158001	I Can Do This All Day
+2159	2159001	Footworn
+2160	2160001	Who's Next?
+2161	2161001	I Control You
+2162	2162001	Mutiny
+2163	2163001	Expert'ease
+2164	2164001	Flawless
+2165	2165001	Draakon Killer
+2166	2166001	Great Massage!
+2167	2167001	Stop Tickling Me
+2168	2168001	Shoot...
+2169	2169001	Do Not Misjudge Me
+2170	2170001	That Was Easy
+2171	2171001	Challenger
+2172	2172001	You Can’t Kill Me
+2173	2173001	Getting Used to It
+2174	2174001	I’m the Champion Around Here
+2175	2175001	Why Is There a Book Here?
+2176	2176001	Too Slow of a Punch
+2177	2177001	Move Your Feet!
+2178	2178001	I See Where You’re Aiming
+2179	2179001	Call Me Sensei
+2180	2180001	I Saw a Phoenix
+2181	2181001	Who’s Next?
+2183	2183001	What Happened Next?
+2184	2184001	Worthy Opponent.
+2500	99152501	Victory in the Battle Arena!
+2501	99152501	Victory in the Battle Arena!
+2502	99152501	Victory in the Battle Arena!
+2503	99152501	Victory in the Battle Arena!
+2504	99152501	Victory in the Battle Arena!
+2505	99152501	Victory in the Battle Arena!
+2506	99152501	Victory in the Battle Arena!
+2507	99152501	Victory in the Battle Arena!
+2508	99152501	Victory in the Battle Arena!
+2509	99152501	Victory in the Battle Arena!
+2510	99152501	Victory in the Battle Arena!
+2511	99152501	Victory in the Battle Arena!
+2512	99152501	Victory in the Battle Arena!
+2513	99152501	Victory in the Battle Arena!
+2514	99152501	Victory in the Battle Arena!
+2515	99152501	Victory in the Battle Arena!
+2516	99152501	Victory in the Battle Arena!
+2517	99152501	Victory in the Battle Arena!
+2518	99152501	Victory in the Battle Arena!
+2519	99152501	Victory in the Battle Arena!
+2520	99152501	Victory in the Battle Arena!
+2521	99152501	Victory in the Battle Arena!
+2522	99152525	Defeat in the Battle Arena!
+2523	99152525	Defeat in the Battle Arena!
+2524	99152525	Defeat in the Battle Arena!
+2525	99152525	Defeat in the Battle Arena!
+2526	99152525	Defeat in the Battle Arena!
+2527	99152525	Defeat in the Battle Arena!
+2528	99152525	Defeat in the Battle Arena!
+2529	99152525	Defeat in the Battle Arena!
+2530	99152525	Defeat in the Battle Arena!
+2531	99152525	Defeat in the Battle Arena!
+2532	99152525	Defeat in the Battle Arena!
+2533	99152525	Defeat in the Battle Arena!
+2534	99152525	Defeat in the Battle Arena!
+2535	99152525	Defeat in the Battle Arena!
+2536	99152525	Defeat in the Battle Arena!
+2537	99152525	Defeat in the Battle Arena!
+2538	99152525	Defeat in the Battle Arena!
+2539	99152525	Defeat in the Battle Arena!
+2540	99152525	Defeat in the Battle Arena!
+2541	99152525	Defeat in the Battle Arena!
+2542	99152525	Defeat in the Battle Arena!
+2543	99152525	Defeat in the Battle Arena!
+2544	99152549	Play in the Battle Arena!
+2545	99152549	Play in the Battle Arena!
+2546	99152549	Play in the Battle Arena!
+2547	99152549	Play in the Battle Arena!
+2548	99152549	Play in the Battle Arena!
+2549	99152549	Play in the Battle Arena!
+2550	99152549	Play in the Battle Arena!
+2551	99152549	Play in the Battle Arena!
+2552	99152549	Play in the Battle Arena!
+2553	99152549	Play in the Battle Arena!
+2554	99152549	Play in the Battle Arena!
+2555	99152549	Play in the Battle Arena!
+2556	99152549	Play in the Battle Arena!
+2557	99152549	Play in the Battle Arena!
+2558	99152549	Play in the Battle Arena!
+2559	99152549	Play in the Battle Arena!
+2560	99152549	Play in the Battle Arena!
+2561	99152549	Play in the Battle Arena!
+2562	99152549	Play in the Battle Arena!
+2563	99152549	Play in the Battle Arena!
+2564	99152549	Play in the Battle Arena!
+2565	99152549	Play in the Battle Arena!
+2566	99152573	Defeat Opponents!
+2567	99152573	Defeat Opponents!
+2568	99152573	Defeat Opponents!
+2569	99152573	Defeat Opponents!
+2570	99152573	Defeat Opponents!
+2571	99152573	Defeat Opponents!
+2572	99152573	Defeat Opponents!
+2573	99152573	Defeat Opponents!
+2574	99152573	Defeat Opponents!
+2575	99152573	Defeat Opponents!
+2576	99152573	Defeat Opponents!
+2577	99152573	Defeat Opponents!
+2578	99152573	Defeat Opponents!
+2579	99152573	Defeat Opponents!
+2580	99152573	Defeat Opponents!
+2581	99152573	Defeat Opponents!
+2582	99152573	Defeat Opponents!
+2583	99152573	Defeat Opponents!
+2584	99152573	Defeat Opponents!
+2585	99152573	Defeat Opponents!
+2586	99152573	Defeat Opponents!
+2587	99152573	Defeat Opponents!
+2588	99152597	Make an Assist!
+2589	99152597	Make an Assist!
+2590	99152597	Make an Assist!
+2591	99152597	Make an Assist!
+2592	99152597	Make an Assist!
+2593	99152597	Make an Assist!
+2594	99152597	Make an Assist!
+2595	99152597	Make an Assist!
+2596	99152597	Make an Assist!
+2597	99152597	Make an Assist!
+2598	99152597	Make an Assist!
+2599	99152597	Make an Assist!
+2600	99152597	Make an Assist!
+2601	99152597	Make an Assist!
+2602	99152597	Make an Assist!
+2603	99152597	Make an Assist!
+2604	99152597	Make an Assist!
+2605	99152597	Make an Assist!
+2606	99152597	Make an Assist!
+2607	99152597	Make an Assist!
+2608	99152597	Make an Assist!
+2609	99152597	Make an Assist!
+2610	99152621	Win as Braga!
+2611	99152621	Win as Braga!
+2612	99152621	Win as Braga!
+2613	99152621	Win as Braga!
+2614	99152621	Win as Braga!
+2615	99152621	Win as Braga!
+2616	99152621	Win as Braga!
+2617	99152621	Win as Braga!
+2618	99152621	Win as Braga!
+2619	99152621	Win as Braga!
+2620	99152621	Win as Braga!
+2621	99152621	Win as Braga!
+2622	99152621	Win as Braga!
+2623	99152621	Win as Braga!
+2624	99152621	Win as Braga!
+2625	99152621	Win as Braga!
+2626	99152621	Win as Braga!
+2627	99152621	Win as Braga!
+2628	99152621	Win as Braga!
+2629	99152621	Win as Braga!
+2630	99152621	Win as Braga!
+2631	99152621	Win as Braga!
+2632	99152645	Win as Dougal!
+2633	99152645	Win as Dougal!
+2634	99152645	Win as Dougal!
+2635	99152645	Win as Dougal!
+2636	99152645	Win as Dougal!
+2637	99152645	Win as Dougal!
+2638	99152645	Win as Dougal!
+2639	99152645	Win as Dougal!
+2640	99152645	Win as Dougal!
+2641	99152645	Win as Dougal!
+2642	99152645	Win as Dougal!
+2643	99152645	Win as Dougal!
+2644	99152645	Win as Dougal!
+2645	99152645	Win as Dougal!
+2646	99152645	Win as Dougal!
+2647	99152645	Win as Dougal!
+2648	99152645	Win as Dougal!
+2649	99152645	Win as Dougal!
+2650	99152645	Win as Dougal!
+2651	99152645	Win as Dougal!
+2652	99152645	Win as Dougal!
+2653	99152645	Win as Dougal!
+2654	99152669	Win as Rhodos!
+2655	99152669	Win as Rhodos!
+2656	99152669	Win as Rhodos!
+2657	99152669	Win as Rhodos!
+2658	99152669	Win as Rhodos!
+2659	99152669	Win as Rhodos!
+2660	99152669	Win as Rhodos!
+2661	99152669	Win as Rhodos!
+2662	99152669	Win as Rhodos!
+2663	99152669	Win as Rhodos!
+2664	99152669	Win as Rhodos!
+2665	99152669	Win as Rhodos!
+2666	99152669	Win as Rhodos!
+2667	99152669	Win as Rhodos!
+2668	99152669	Win as Rhodos!
+2669	99152669	Win as Rhodos!
+2670	99152669	Win as Rhodos!
+2671	99152669	Win as Rhodos!
+2672	99152669	Win as Rhodos!
+2673	99152669	Win as Rhodos!
+2674	99152669	Win as Rhodos!
+2675	99152669	Win as Rhodos!
+2676	99152693	Win as Fraya!
+2677	99152693	Win as Fraya!
+2678	99152693	Win as Fraya!
+2679	99152693	Win as Fraya!
+2680	99152693	Win as Fraya!
+2681	99152693	Win as Fraya!
+2682	99152693	Win as Fraya!
+2683	99152693	Win as Fraya!
+2684	99152693	Win as Fraya!
+2685	99152693	Win as Fraya!
+2686	99152693	Win as Fraya!
+2687	99152693	Win as Fraya!
+2688	99152693	Win as Fraya!
+2689	99152693	Win as Fraya!
+2690	99152693	Win as Fraya!
+2691	99152693	Win as Fraya!
+2692	99152693	Win as Fraya!
+2693	99152693	Win as Fraya!
+2694	99152693	Win as Fraya!
+2695	99152693	Win as Fraya!
+2696	99152693	Win as Fraya!
+2697	99152693	Win as Fraya!
+2698	99152717	Win as Elleon!
+2699	99152717	Win as Elleon!
+2700	99152717	Win as Elleon!
+2701	99152717	Win as Elleon!
+2702	99152717	Win as Elleon!
+2703	99152717	Win as Elleon!
+2704	99152717	Win as Elleon!
+2705	99152717	Win as Elleon!
+2706	99152717	Win as Elleon!
+2707	99152717	Win as Elleon!
+2708	99152717	Win as Elleon!
+2709	99152717	Win as Elleon!
+2710	99152717	Win as Elleon!
+2711	99152717	Win as Elleon!
+2712	99152717	Win as Elleon!
+2713	99152717	Win as Elleon!
+2714	99152717	Win as Elleon!
+2715	99152717	Win as Elleon!
+2716	99152717	Win as Elleon!
+2717	99152717	Win as Elleon!
+2718	99152717	Win as Elleon!
+2719	99152717	Win as Elleon!
+2720	99152741	Win as Shizuna!
+2721	99152741	Win as Shizuna!
+2722	99152741	Win as Shizuna!
+2723	99152741	Win as Shizuna!
+2724	99152741	Win as Shizuna!
+2725	99152741	Win as Shizuna!
+2726	99152741	Win as Shizuna!
+2727	99152741	Win as Shizuna!
+2728	99152741	Win as Shizuna!
+2729	99152741	Win as Shizuna!
+2730	99152741	Win as Shizuna!
+2731	99152741	Win as Shizuna!
+2732	99152741	Win as Shizuna!
+2733	99152741	Win as Shizuna!
+2734	99152741	Win as Shizuna!
+2735	99152741	Win as Shizuna!
+2736	99152741	Win as Shizuna!
+2737	99152741	Win as Shizuna!
+2738	99152741	Win as Shizuna!
+2739	99152741	Win as Shizuna!
+2740	99152741	Win as Shizuna!
+2741	99152741	Win as Shizuna!
+2742	99152765	Win as Teolung!
+2743	99152765	Win as Teolung!
+2744	99152765	Win as Teolung!
+2745	99152765	Win as Teolung!
+2746	99152765	Win as Teolung!
+2747	99152765	Win as Teolung!
+2748	99152765	Win as Teolung!
+2749	99152765	Win as Teolung!
+2750	99152765	Win as Teolung!
+2751	99152765	Win as Teolung!
+2752	99152765	Win as Teolung!
+2753	99152765	Win as Teolung!
+2754	99152765	Win as Teolung!
+2755	99152765	Win as Teolung!
+2756	99152765	Win as Teolung!
+2757	99152765	Win as Teolung!
+2758	99152765	Win as Teolung!
+2759	99152765	Win as Teolung!
+2760	99152765	Win as Teolung!
+2761	99152765	Win as Teolung!
+2762	99152765	Win as Teolung!
+2763	99152765	Win as Teolung!
+2764	99152789	Win as Ciebel!
+2765	99152789	Win as Ciebel!
+2766	99152789	Win as Ciebel!
+2767	99152789	Win as Ciebel!
+2768	99152789	Win as Ciebel!
+2769	99152789	Win as Ciebel!
+2770	99152789	Win as Ciebel!
+2771	99152789	Win as Ciebel!
+2772	99152789	Win as Ciebel!
+2773	99152789	Win as Ciebel!
+2774	99152789	Win as Ciebel!
+2775	99152789	Win as Ciebel!
+2776	99152789	Win as Ciebel!
+2777	99152789	Win as Ciebel!
+2778	99152789	Win as Ciebel!
+2779	99152789	Win as Ciebel!
+2780	99152789	Win as Ciebel!
+2781	99152789	Win as Ciebel!
+2782	99152789	Win as Ciebel!
+2783	99152789	Win as Ciebel!
+2784	99152789	Win as Ciebel!
+2785	99152789	Win as Ciebel!
+2786	99152813	Win as Ryshan!
+2787	99152813	Win as Ryshan!
+2788	99152813	Win as Ryshan!
+2789	99152813	Win as Ryshan!
+2790	99152813	Win as Ryshan!
+2791	99152813	Win as Ryshan!
+2792	99152813	Win as Ryshan!
+2793	99152813	Win as Ryshan!
+2794	99152813	Win as Ryshan!
+2795	99152813	Win as Ryshan!
+2796	99152813	Win as Ryshan!
+2797	99152813	Win as Ryshan!
+2798	99152813	Win as Ryshan!
+2799	99152813	Win as Ryshan!
+2800	99152813	Win as Ryshan!
+2801	99152813	Win as Ryshan!
+2802	99152813	Win as Ryshan!
+2803	99152813	Win as Ryshan!
+2804	99152813	Win as Ryshan!
+2805	99152813	Win as Ryshan!
+2806	99152813	Win as Ryshan!
+2807	99152813	Win as Ryshan!
+2808	99152837	Win as Niniel!
+2809	99152837	Win as Niniel!
+2810	99152837	Win as Niniel!
+2811	99152837	Win as Niniel!
+2812	99152837	Win as Niniel!
+2813	99152837	Win as Niniel!
+2814	99152837	Win as Niniel!
+2815	99152837	Win as Niniel!
+2816	99152837	Win as Niniel!
+2817	99152837	Win as Niniel!
+2818	99152837	Win as Niniel!
+2819	99152837	Win as Niniel!
+2820	99152837	Win as Niniel!
+2821	99152837	Win as Niniel!
+2822	99152837	Win as Niniel!
+2823	99152837	Win as Niniel!
+2824	99152837	Win as Niniel!
+2825	99152837	Win as Niniel!
+2826	99152837	Win as Niniel!
+2827	99152837	Win as Niniel!
+2828	99152837	Win as Niniel!
+2829	99152837	Win as Niniel!
+2830	99152861	Win as Zolyn!
+2831	99152861	Win as Zolyn!
+2832	99152861	Win as Zolyn!
+2833	99152861	Win as Zolyn!
+2834	99152861	Win as Zolyn!
+2835	99152861	Win as Zolyn!
+2836	99152861	Win as Zolyn!
+2837	99152861	Win as Zolyn!
+2838	99152861	Win as Zolyn!
+2839	99152861	Win as Zolyn!
+2840	99152861	Win as Zolyn!
+2841	99152861	Win as Zolyn!
+2842	99152861	Win as Zolyn!
+2843	99152861	Win as Zolyn!
+2844	99152861	Win as Zolyn!
+2845	99152861	Win as Zolyn!
+2846	99152861	Win as Zolyn!
+2847	99152861	Win as Zolyn!
+2848	99152861	Win as Zolyn!
+2849	99152861	Win as Zolyn!
+2850	99152861	Win as Zolyn!
+2851	99152861	Win as Zolyn!
+2852	99152885	Win as Astina!
+2853	99152885	Win as Astina!
+2854	99152885	Win as Astina!
+2855	99152885	Win as Astina!
+2856	99152885	Win as Astina!
+2857	99152885	Win as Astina!
+2858	99152885	Win as Astina!
+2859	99152885	Win as Astina!
+2860	99152885	Win as Astina!
+2861	99152885	Win as Astina!
+2862	99152885	Win as Astina!
+2863	99152885	Win as Astina!
+2864	99152885	Win as Astina!
+2865	99152885	Win as Astina!
+2866	99152885	Win as Astina!
+2867	99152885	Win as Astina!
+2868	99152885	Win as Astina!
+2869	99152885	Win as Astina!
+2870	99152885	Win as Astina!
+2871	99152885	Win as Astina!
+2872	99152885	Win as Astina!
+2873	99152885	Win as Astina!
+2874	99152909	Win as Erhaan!
+2875	99152909	Win as Erhaan!
+2876	99152909	Win as Erhaan!
+2877	99152909	Win as Erhaan!
+2878	99152909	Win as Erhaan!
+2879	99152909	Win as Erhaan!
+2880	99152909	Win as Erhaan!
+2881	99152909	Win as Erhaan!
+2882	99152909	Win as Erhaan!
+2883	99152909	Win as Erhaan!
+2884	99152909	Win as Erhaan!
+2885	99152909	Win as Erhaan!
+2886	99152909	Win as Erhaan!
+2887	99152909	Win as Erhaan!
+2888	99152909	Win as Erhaan!
+2889	99152909	Win as Erhaan!
+2890	99152909	Win as Erhaan!
+2891	99152909	Win as Erhaan!
+2892	99152909	Win as Erhaan!
+2893	99152909	Win as Erhaan!
+2894	99152909	Win as Erhaan!
+2895	99152909	Win as Erhaan!
+2896	99152933	Win as Kaia!
+2897	99152933	Win as Kaia!
+2898	99152933	Win as Kaia!
+2899	99152933	Win as Kaia!
+2900	99152933	Win as Kaia!
+2901	99152933	Win as Kaia!
+2902	99152933	Win as Kaia!
+2903	99152933	Win as Kaia!
+2904	99152933	Win as Kaia!
+2905	99152933	Win as Kaia!
+2906	99152933	Win as Kaia!
+2907	99152933	Win as Kaia!
+2908	99152933	Win as Kaia!
+2909	99152933	Win as Kaia!
+2910	99152933	Win as Kaia!
+2911	99152933	Win as Kaia!
+2912	99152933	Win as Kaia!
+2913	99152933	Win as Kaia!
+2914	99152933	Win as Kaia!
+2915	99152933	Win as Kaia!
+2916	99152933	Win as Kaia!
+2917	99152933	Win as Kaia!
+2918	99152957	Win as Dixie!
+2919	99152957	Win as Dixie!
+2920	99152957	Win as Dixie!
+2921	99152957	Win as Dixie!
+2922	99152957	Win as Dixie!
+2923	99152957	Win as Dixie!
+2924	99152957	Win as Dixie!
+2925	99152957	Win as Dixie!
+2926	99152957	Win as Dixie!
+2927	99152957	Win as Dixie!
+2928	99152957	Win as Dixie!
+2929	99152957	Win as Dixie!
+2930	99152957	Win as Dixie!
+2931	99152957	Win as Dixie!
+2932	99152957	Win as Dixie!
+2933	99152957	Win as Dixie!
+2934	99152957	Win as Dixie!
+2935	99152957	Win as Dixie!
+2936	99152957	Win as Dixie!
+2937	99152957	Win as Dixie!
+2938	99152957	Win as Dixie!
+2939	99152957	Win as Dixie!
+2940	99152981	Win as Shaoron!
+2941	99152981	Win as Shaoron!
+2942	99152981	Win as Shaoron!
+2943	99152981	Win as Shaoron!
+2944	99152981	Win as Shaoron!
+2945	99152981	Win as Shaoron!
+2946	99152981	Win as Shaoron!
+2947	99152981	Win as Shaoron!
+2948	99152981	Win as Shaoron!
+2949	99152981	Win as Shaoron!
+2950	99152981	Win as Shaoron!
+2951	99152981	Win as Shaoron!
+2952	99152981	Win as Shaoron!
+2953	99152981	Win as Shaoron!
+2954	99152981	Win as Shaoron!
+2955	99152981	Win as Shaoron!
+2956	99152981	Win as Shaoron!
+2957	99152981	Win as Shaoron!
+2958	99152981	Win as Shaoron!
+2959	99152981	Win as Shaoron!
+2960	99152981	Win as Shaoron!
+2961	99152981	Win as Shaoron!
+2962	99153005	Win as Woopu!
+2963	99153005	Win as Woopu!
+2964	99153005	Win as Woopu!
+2965	99153005	Win as Woopu!
+2966	99153005	Win as Woopu!
+2967	99153005	Win as Woopu!
+2968	99153005	Win as Woopu!
+2969	99153005	Win as Woopu!
+2970	99153005	Win as Woopu!
+2971	99153005	Win as Woopu!
+2972	99153005	Win as Woopu!
+2973	99153005	Win as Woopu!
+2974	99153005	Win as Woopu!
+2975	99153005	Win as Woopu!
+2976	99153005	Win as Woopu!
+2977	99153005	Win as Woopu!
+2978	99153005	Win as Woopu!
+2979	99153005	Win as Woopu!
+2980	99153005	Win as Woopu!
+2981	99153005	Win as Woopu!
+2982	99153005	Win as Woopu!
+2983	99153005	Win as Woopu!
+2984	99153029	Win as Titus!
+2985	99153029	Win as Titus!
+2986	99153029	Win as Titus!
+2987	99153029	Win as Titus!
+2988	99153029	Win as Titus!
+2989	99153029	Win as Titus!
+2990	99153029	Win as Titus!
+2991	99153029	Win as Titus!
+2992	99153029	Win as Titus!
+2993	99153029	Win as Titus!
+2994	99153029	Win as Titus!
+2995	99153029	Win as Titus!
+2996	99153029	Win as Titus!
+2997	99153029	Win as Titus!
+2998	99153029	Win as Titus!
+2999	99153029	Win as Titus!
+3000	99153029	Win as Titus!
+3001	99153029	Win as Titus!
+3002	99153029	Win as Titus!
+3003	99153029	Win as Titus!
+3004	99153029	Win as Titus!
+3005	99153029	Win as Titus!
+3006	99153053	Win as Paesyn!
+3007	99153053	Win as Paesyn!
+3008	99153053	Win as Paesyn!
+3009	99153053	Win as Paesyn!
+3010	99153053	Win as Paesyn!
+3011	99153053	Win as Paesyn!
+3012	99153053	Win as Paesyn!
+3013	99153053	Win as Paesyn!
+3014	99153053	Win as Paesyn!
+3015	99153053	Win as Paesyn!
+3016	99153053	Win as Paesyn!
+3017	99153053	Win as Paesyn!
+3018	99153053	Win as Paesyn!
+3019	99153053	Win as Paesyn!
+3020	99153053	Win as Paesyn!
+3021	99153053	Win as Paesyn!
+3022	99153053	Win as Paesyn!
+3023	99153053	Win as Paesyn!
+3024	99153053	Win as Paesyn!
+3025	99153053	Win as Paesyn!
+3026	99153053	Win as Paesyn!
+3027	99153053	Win as Paesyn!
+3028	99153077	Win as Mutar!
+3029	99153077	Win as Mutar!
+3030	99153077	Win as Mutar!
+3031	99153077	Win as Mutar!
+3032	99153077	Win as Mutar!
+3033	99153077	Win as Mutar!
+3034	99153077	Win as Mutar!
+3035	99153077	Win as Mutar!
+3036	99153077	Win as Mutar!
+3037	99153077	Win as Mutar!
+3038	99153077	Win as Mutar!
+3039	99153077	Win as Mutar!
+3040	99153077	Win as Mutar!
+3041	99153077	Win as Mutar!
+3042	99153077	Win as Mutar!
+3043	99153077	Win as Mutar!
+3044	99153077	Win as Mutar!
+3045	99153077	Win as Mutar!
+3046	99153077	Win as Mutar!
+3047	99153077	Win as Mutar!
+3048	99153077	Win as Mutar!
+3049	99153077	Win as Mutar!
+3050	99153101	Win as Liwon!
+3051	99153101	Win as Liwon!
+3052	99153101	Win as Liwon!
+3053	99153101	Win as Liwon!
+3054	99153101	Win as Liwon!
+3055	99153101	Win as Liwon!
+3056	99153101	Win as Liwon!
+3057	99153101	Win as Liwon!
+3058	99153101	Win as Liwon!
+3059	99153101	Win as Liwon!
+3060	99153101	Win as Liwon!
+3061	99153101	Win as Liwon!
+3062	99153101	Win as Liwon!
+3063	99153101	Win as Liwon!
+3064	99153101	Win as Liwon!
+3065	99153101	Win as Liwon!
+3066	99153101	Win as Liwon!
+3067	99153101	Win as Liwon!
+3068	99153101	Win as Liwon!
+3069	99153101	Win as Liwon!
+3070	99153101	Win as Liwon!
+3071	99153101	Win as Liwon!
+3072	99153124	Talk to Mattin, Tamur, Kaidun and Rida.
+5991	5991001	First Steps in a Larger World
+5992	5992001	It's Not Always About Fighting
+5993	5993001	To Stop a Predator
+5994	5994001	Blending In
+6000	6000001	Nobody Move!
+6001	6001001	Advanced Shopper
+6002	6002001	Master Shopper
+6003	6003001	Double Luck
+6004	6004001	World Guardian
+6005	6005001	I Got a Box
+6006	6006001	Flight Enthusiast
+6007	6007001	Wind Rider
+6008	6008001	Novice Pilot
+6009	6009001	Flight Lover
+6010	6010001	Lightning Rider
+6011	6011001	Expert Pilot
+6012	6012001	Flight Master
+6013	6013001	Storm Rider
+6014	6014001	Top Gun
+6015	6015001	Legendary Treasure Hunter
+6016	6016001	Fire Bad!
+6230	6230001	Stagnant Water
+6901	6901001	Down in the Underground
+6902	6902001	Just Let Yourself In
+6903	6903001	To Serve Man
+6904	6904001	Bread and Carcasses
+6905	6905001	Insider Knowledge
+6906	6906001	It All Depends
+6907	6907001	Rough Handling
+7000	7000001	Count on Me
+7001	7001001	Lean on Me
+7002	7002001	Make an Impact
+7003	7003001	Marda's Vengeance
+7004	7004001	Marda's Justice
+7005	7005001	Matched for Impact
+7006	7006001	Three Times a Pirate
+7007	7007001	EME Brace for Impact: Won 5 Times in Fraywind Canyon
+7008	7008001	Nine Pounder
+7009	7009001	Twelve Pounder
+7010	7010001	Dismantle for Impact
+7011	7011001	Darkness Reconquered
+9811	9811001	Cleanse the Infection
+9812	9812001	Liberate Ghillieglade
+9813	9813001	Stick to the Plan
+9814	9814001	Trip in the Rift
+9815	9815001	Reopening Old Wounds
+9816	9816001	Splitting Firewood
+9817	9817001	The Giving Tree
+9818	9818001	Sorry, I'm Busy
+9819	9819001	Home Away From Home
+9830	9830001	Champion of Celestial Arena
+9831	9831001	Won 10 Times
+9832	9832001	I Work Best Alone
+9833	9833001	Hail to the Chief
+9834	9834001	Spotted the Hyena
+9835	590001	Sealed Land Champion
+20300	20300001	Harmony Grass
+20301	20301001	Cobseed
+20302	20302001	Veridia Root
+20303	20303001	Mushroom Cap
+20304	20304001	Moongourd Pulp
+20305	20305001	Apple
+20310	20310001	Plain Stone
+20311	20311001	Cobala Ore
+20312	20312001	Shadmetal Ore
+20313	20313001	Xermetal Ore
+20314	20314001	Normetal Ore
+20315	20315001	Galborne Ore
+20316	20316001	Pure Duranium Ore
+20320	20320001	Achromic Essence
+20321	20321001	Crimson Essence Crystal
+20322	20322001	Earth Essence Crystal
+20323	20323001	Azure Essence Crystal
+20324	20324001	Opal Essence Crystal
+20325	20325001	Obsidian Essence Crystal
+20326	20326001	Pure Duranium Crystal
+25462	25462001	Getty's Mysterious Pouch
+28701	28701001	Stone Moroko
+28702	28702001	Azurecheek Carp
+28703	28703001	Crayfish
+28704	28704001	Clownfish
+28705	28705001	Angelfish
+28706	28706001	Black-fin Clownfish
+28707	28707001	Squid
+28708	28708001	Crucian Carp
+28709	28709001	Sea Eel
+28710	28710001	Tang Fish
+28711	28711001	Freshwater Eel
+28712	28712001	Octopus
+28713	28713001	Marlin
+28714	28714001	Prince Salmon
+28715	28715001	Mottled Ray
+28716	28716001	Catfish
+28717	28717001	Channel Catfish
+28718	28718001	Eldritch Carp
+28719	28719001	Gula Shark
+28720	28720001	Chroma Salmon
+28721	28721001	Electric Eel
+28722	28722001	Yellowfin
+28723	28723001	Dipturus
+28724	28724001	Stone Octopus
+28725	28725001	Crimson Marlin
+28726	28726001	Prism Carp
+28727	28727001	Bluefin
+28728	28728001	Golden Crayfish
+28729	28729001	Crimson Squid
+28730	28730001	Mossback
+28731	28731001	Golden Eel
+28732	28732001	Crimson Shark
+28733	28733001	Specklefin
+28734	28734001	Makaira
+28735	28735001	Gluda Shark
+28736	28736001	Shrieking Eel
+28743	28743001	Giant Catfish
+28744	28744001	Golden Shark
+28745	28745001	Fairy Snakehead
+28746	28746001	Golden Sailfish
+28747	28747001	Queen Salmon
+28748	28748001	Golden Octopus
+28749	28749001	Sea ​​Anemone
+28750	28750001	Hermit Crab
+28751	28751001	Ink Squid
+28752	28752001	Core Anemone
+28753	28753001	Jarflower Cnidaria
+28754	28754001	Veiltail
+28755	28755001	Piranha
+28756	28756001	Cydippida
+28757	28757001	Nautiloid
+28758	28758001	Pompom
+28759	28759001	Electric Ray
+28760	28760001	Rainbow Anemone
+28761	28761001	Crimson Tuna
+28762	28762001	Red-Eyed Piranha
+28763	28763001	Azart Veiltail
+28764	28764001	Pink Slender Catfish
+28765	28765001	Starsquid
+28766	28766001	Electric Carp
+28767	28767001	Golden Cnidaria
+28768	28768001	Crimson Salmon
+28769	28769001	Mimic Octopus
+28770	28770001	Golden Ray
+28771	28771001	Rainbow Cnidaria
+28772	28772001	Ammonite
+28773	28773001	Cloud Anemone
+28774	28774001	Giant Blue
+28775	28775001	Azart Piranha
+28776	28776001	Jarflower Veiltail
+28777	28777001	Darkfin
+28778	28778001	Golden Carp
+28800	28800001	First Catch
+28801	28801001	Gone Fishing
+28802	28802001	Bucket of Fish
+28803	28803001	Basket of Fish
+28804	28804001	Boatload of Fish
+28805	28805001	Minor Monger
+28806	28806001	Major Monger
+28807	28807001	Fishing Association Recruit
+28808	28808001	For the Fishing Association!
+28810	28810001	Fishing Enthusiast
+28811	28811001	Cleared Muricai Fishery
+28812	28812001	Cleared Cutthroat Harbor Fishery
+28813	28813001	Cleared Lake of Tears Fishery
+28814	28814001	Cleared Vexatus Swamp Fishery
+28815	28815001	Cleared Celsian Lake Fishery
+28816	28816001	Cleared Seren's Lake Fishery
+28817	28817001	Cleaned Highwatch Pond!
+28819	28819001	Come Back if You Want More
+28820	28820001	Hide and Peek
+30000	30000001	Mysterious Woods
+30001	30001001	Cause of the Plague
+30002	30002001	Argon Vestige
+30003	30003001	Inexplicable Mystery
+30004	30004001	What Tiaran Left Behind
+30005	30005001	Acknowledging the Argons
+30006	30006001	Put to the Test
+30007	30007001	A Brutal Plan
+30008	30008001	Vanguard Scout Inauguration
+30009	30009001	The Chosen One
+30010	30010001	Flooding the Grounds of Khanovar
+30011	30011001	True Blade of Kaia
+40000	40000001	One to End the Crisis
+40004	40004001	Your Best Shot
+40005	40005001	Legendary
+40006	40006001	Busiest Officer
+40007	40007001	The Last Solution
+40008	40008001	Born to Rescue
+40201	40201001	Level 70
+40202	40202001	Accessed Skill Optimization.
+40203	40203001	Optimized 2 Skills
+40204	40204001	Optimized 4 Skills
+40205	40205001	Optimized 6 Skills
+40206	40206001	Advanced a Skill.
+40207	40207001	Advanced a skill 30 times.
+40208	40208001	Advanced a skill 60 times.
+40209	40209001	Advanced a skill 90 times.
+40210	40210001	Advanced a skill 120 times.
+40211	40211001	Advanced a skill 150 times.
+40212	40212001	Advanced a skill 180 times.
+98101	98101001	Sharing a Cell
+98102	98102001	Prison Riot!
+98103	98103001	Jailhouse Rock
+99101	99101001	First Place on the Battleground Leaderboard - Champions' Skyring
+99102	99102001	Place on the Battleground Leaderboard - Champions' Skyring
+99103	99103001	First Place on the Battleground Leaderboard - Fraywind Canyon
+99104	99104001	Place on the Battleground Leaderboard - Fraywind Canyon
+99105	99105001	First Place on the Battleground Leaderboard - Corsairs' Stronghold
+99106	99106001	Place on the Battleground Leaderboard - Corsairs' Stronghold
+99107	99107001	First Place on the Battleground Leaderboard—Shore Hold
+99108	99108001	Place on the Battleground Leaderboard—Shore Hold
+99113	99113001	PvE Leaderboard Rewards Revamped Dreadspire 1st Place (If shown, BTS)
+99114	99114001	PvE Leaderboard Rewards Revamped Dreadspire 2nd, 3rd Place (If shown, BTS)
+99115	99115001	PvE Leaderboard Rewards Pit of Petrax 1st Place (If shown, BTS)
+99116	99116001	PvE Leaderboard Rewards Pit of Petrax 2nd, 3rd Place (If shown, BTS)
+99127	99127001	Anti-plant
+99128	99128001	Executing the Executioner
+99129	99129001	Getting Over Draakon
+99130	99130001	Grotto of Lost Souls (Hard) Expert
+99131	99131001	Clutch Player
+99132	99132001	Enough Games
+99133	99133001	Overlord
+99134	99134001	Antaroth's Abyss Expert
+99135	99135001	Curseproof
+99136	99136001	Claw and Order
+99137	99137001	Akalath Quarantine Expert
+99138	99138001	Gimme Some Honey!
+99139	99139001	The Sluggish Queen
+99140	99140001	Gossamer Vault (Hard) Expert
+99141	99141001	I’m the Dungeon Master!
+99142	99142001	Bahaar's Sanctum Expert
+510050	510050	8th Anniversary
+510066	510066	9th Anniversary
+510077	510077	FLAME of WILL
+520029	520029001	Chooser of the Slain
+520030	520030001	TERA Lover
+520031	520031001	Birthday Guest
+520032	520032001	Lunar Guardian
+520033	520033001	Junior Detective
+520034	520034001	Senior Detective
+520035	520035001	Master Detective
+520036	520036001	Master Warrior
+520037	520037001	Master Slayer
+520038	520038001	Master Berserker
+520039	520039001	Master Archer
+520040	520040001	Master Elementalist
+520041	520041001	Master Priest
+520042	520042001	Master Lancer
+520043	520043001	Master Sorcerer
+520044	520044001	Master Soulless
+520045	520045001	Master Assassin
+520046	520046001	Master Engineer
+520047	520047001	Master Fighter
+520048	520048001	Beat the Rush
+520049	520049001	Survival of the Fittest
+520050	520050001	Resistance is Futile!
+520051	520051001	Cower, Mortals!
+520052	520052002	Max Classic
+520053	520052006	Time Travel
+520054	520052010	Lucky Charm
+520055	520055001	Extreme Times
+520056	520056001	Summer Triumph
+520057	520057001	Fulminar's Nightmare
+520058	520058001	Elindiana Jones
+520059	520059001	Tower of Nightmares
+520060	520060001	Lord of Wonder
+520061	520061001	Tentacular
+520062	520062001	Scrambled to Death
+520064	520064001	Divine Aura Master
+520065	520065001	[Event] A Rare Catch!
+520066	520066001	[Achievement] Popori Master
+520067	520067001	Rewards Tier 1-4
+520068	520068001	Rewards Tier 5-8
+520069	520069001	Rewards Tier 9
+520070	520070001	Rewards Tier 10
+525000	525000001	Lore Apprentice
+525001	525001001	Lady Tanly's Court
+525002	525002001	Lore GrandMaster
+525003	525003001	Lore Apprentice 2
+525004	525004001	Lore Master 2
+525005	525005001	Lore GrandMaster 2
+525006	525006001	Dummy Achievement 1
+525007	525007001	Dummy Achievement 2
+525008	525008001	Dummy Achievement 3
+525009	525009001	Dummy Achievement 4
+525010	525010001	Dummy Achievement 5
+525011	525011001	Dummy Achievement 6
+525012	525012001	Dummy Achievement 7
+525013	525013001	Dummy Achievement 8
+525014	525014001	Dummy Achievement 9
+525015	525015001	Dummy Achievement 10
+525016	525016001	Dummy Achievement 11
+525017	525017001	Dummy Achievement 12
+525018	525018001	Dummy Achievement 13
+525019	525019001	Dummy Achievement 14
+525020	525020001	Dummy Achievement 15
+525021	525021001	Dummy Achievement 16
+525022	525022001	Dummy Achievement 17
+525023	525023001	Dummy Achievement 18
+525024	525024001	Dummy Achievement 19
+525025	525025001	Dummy Achievement 20
+525026	525026001	Giver of Life
+525027	525027001	Heart of Gold
+525028	525028001	Extra Life QT
+525029	525029001	The Dragon Fanatic
+525030	525030001	Vergos’ Nemesis
+525031	525031001	Time Traveler
+530000	503000001	Tourist of the Bloody Island
+530001	53000101	Bloody God
+530002	53000201	Demigod
+530003	53000301	Bloody dawn
+530004	53000401	Scarlet dawn
+530005	53000501	Rogue of Heartwood
+530006	53000601	Warrior of Light
+530007	53000701	Dragon owner
+530008	53000801	[Achievement] Diver
+530009	530009001	collection_title1
+530010	530010001	collection_title2
+530011	530011001	collection_title3
+530012	530012001	Savior of Halloween
+690004	69000104	Title test grade 4
+690005	69000106	Title test grade 6
+690006	69000107	Title test grade 7
+690007	69000108	Title test grade 8
+690011	69000111	Title test grade 11
+690012	69000112	Title test grade 12
+690021	69000121	Title test grade 21
+690022	69000122	Title test grade 22
+690023	69000123	Title test grade 23
+690024	69000124	Title test grade 24
+690031	69000131	Title test grade 31
+690032	69000132	Title test grade 32
+690051	69000151	Title test grade 51
+690052	69000152	Title test grade 52
+690053	69000153	Title test grade 53
+690054	69000154	Title test grade 54
+690061	69000161	Title test grade 61
+690062	69000162	Title test grade 62
+690071	69000171	Title test grade 71
+690072	69000172	Title test grade 72
+690073	69000173	Title test grade 73
+690074	69000173	Title test grade 73
+690075	69000173	Title test grade 73
+690081	69000181	Title test grade 81
+690082	69000182	Title test grade 82
+690083	69000183	Title test grade 83
+690084	69000184	Title test grade 84
+690085	69000185	Title test grade 85
+690086	69000186	Title test grade 86
+691000	69100100	Divine Aura Master
+691001	69100101	Former TERA Staff
+691002	69100102	Twilight Titan
+691003	69100103	Hera's Mighty Guardian
+691004	69100104	Hero of Valkyria
+691005	69100105	Princess
+691006	69100106	Chooser of the Slain
+691007	69100107	Dragon Kitty
+691008	69100108	Holy Order
+691009	69100109	Step By Step
+691010	69100110	Phantom Dragon
+691011	69100111	I Defeated Vergos!
+691012	69100112	Doomed Dragon Knight
+691013	69100113	Wrath of the Darkness
+691014	69100114	Nirc's Slave
+691015	69100215	The Booster (Item)
+691016	69100216	Ultimate Booster (Account)
+691017	69100117	<font color='#f7a001'>Perfectly</font> <font color='#01a0f7'>Balanced</font>
+691018	69100118	<font color='#7030A0'>Who the</font> <font color='#FF0000'>HECK</font> <font color='#7030A0'>tested this?</font>
+691019	69100119	<font color='#00FF48'>Live</font> <font color='#00B333'>Test</font> <font color='#FF0000'>Subject</font>
+691020	69100120	<font color='#0670B8'>A Little</font> <font color='#B7410E'>Rusty</font>
+691021	69100121	<font color='#FF919B'>Guinea</font> <font color='#FA9FFF'>Pig</font>
+691022	69102201	Commander
+691023	69102301	General
+691024	69102401	The Infernal Sentinel
+691025	69102501	The Glacial Sentinel
+691026	69102601	<font color='#0000FF'>Vibing on </font> <font color='#FFFF00'>twitch.tv/chinorozumew</font>
+691027	69102701	Flamongo
+691028	69102801	Valkyria Researcher
+691029	69102901	Antagonist
+691030	69103001	TeraX Staff
+691031	69103101	Fluffy Space Raptor
+691900	69190001	Time to chop!
+691901	69190101	Time to fight!
+691902	69190201	Time to defend!
+691903	69190301	Time to slay!
+691904	69190401	Time to pierce!
+691905	69190501	Time to shoot!
+692101	69201011	Frontrunner
+692102	69201021	Warrior Frontrunner
+692103	69201031	Lancer Frontrunner
+692104	69201041	Slayer Frontrunner
+692105	69201051	Berserker Frontrunner
+692106	69201061	Sorcerer Frontrunner
+692107	69201071	Archer Frontrunner
+692108	69201081	Priest Frontrunner
+692109	69201091	Mystic Frontrunner
+692110	69201101	Reaper Frontrunner
+692111	69201111	Gunner Frontrunner
+692112	69201121	Brawler Frontrunner
+692113	69201131	Ninja Frontrunner
+692114	69201141	Valkyrie Frontrunner
+692201	69202011	Sweaty
+692202	69202021	Sweaty Warrior
+692203	69202031	Sweaty Lancer
+692204	69202041	Sweaty Slayer
+692205	69202051	Sweaty Berserker
+692206	69202061	Sweaty Sorcerer
+692207	69202071	Sweaty Archer
+692208	69202081	Sweaty Priest
+692209	69202091	Sweaty Mystic
+692210	69202101	Sweaty Reaper
+692211	69202111	Sweaty Gunner
+692212	69202121	Sweaty Brawler
+692213	69202131	Sweaty Ninja
+692214	69202141	Sweaty Valkyrie
+692301	69203011	Divine
+692302	69203021	Divine Warrior
+692303	69203031	Divine Lancer
+692304	69203041	Divine Slayer
+692305	69203051	Divine Berserker
+692306	69203061	Divine Sorcerer
+692307	69203071	Divine Archer
+692308	69203081	Divine Priest
+692309	69203091	Divine Mystic
+692310	69203101	Divine Reaper
+692311	69203111	Divine Gunner
+692312	69203121	Divine Brawler
+692313	69203131	Divine Ninja
+692314	69203141	Divine Valkyrie
+692401	69204011	Legendary Oathkeeper
+692402	69204021	Legendary Warrior
+692403	69204031	Legendary Lancer
+692404	69204041	Legendary Slayer
+692405	69204051	Legendary Berserker
+692406	69204061	Legendary Sorcerer
+692407	69204071	Legendary Archer
+692408	69204081	Legendary Priest
+692409	69204091	Legendary Mystic
+692410	69204101	Legendary Reaper
+692411	69204111	Legendary Gunner
+692412	69204121	Legendary Brawler
+692413	69204131	Legendary Ninja
+692414	69204141	Legendary Valkyrie
+692450	69204013	Oathkeeper
+693011	69210101	Reginicide
+693012	69210201	Core Challenger
+693021	69210111	Carpet Enjoyer
+693022	69210211	Forsaken Challenger
+693031	69210121	Fireproof
+693032	69210221	Skycruiser Challenger
+693041	69210131	Nemesis Nemesis
+693042	69210231	Bathysmal Challenger
+693051	69210141	Dragon Blood
+693052	69210241	Grotto Challlenger
+693061	69210151	Firelord
+693062	69210251	Sanctum Challenger
+693071	69210161	Forbidden Sword
+693072	69210261	Arena Challenger
+693081	69210171	Soul Eater
+693082	69210271	Manor Challenger
+693091	69210181	Cursed No More
+693092	69210281	Abyss Challenger
+694000	69210101	Reginicide
+694001	69210111	Carpet Enjoyer
+694002	69210121	Fireproof
+694003	69210131	Nemesis Nemesis
+694004	69210141	Dragon Blood
+694010	69210301	Royal
+694012	69210321	Darkan, my friend.
+694013	69210331	Wet
+694014	69210341	How to Tame a Dragon
+694015	69210351	Infernal Godslayer
+694016	69210361	Hagoofna
+694017	69210371	Twisted Reflection
+694018	69210381	Abyssal Knight
+694019	69210391	Argonrage
+694020	69210401	The New Commander
+696000	69600001	Master Aviator
+696001	69600101	What just happend?!
+696002	69600201	Don't worry, I got you!
+699000	69900001	Partner: Cursed Khanrin
+700000	70000001	Pet Collection: Complete Kalavese
+700001	70000101	Pet Collection: Complete Small Kalligar
+700002	70000201	Pet Collection: Complete Pepero
+700003	70000301	Pet Collection: Complete Balbatos
+700004	70000401	Pet Collection: Complete Salcata
+700005	70000501	Pet Collection: Complete Nedra
+700006	70000601	Pet Collection: Complete Akalath Travan
+700007	70000701	Pet Collection: Complete Viyor
+700008	70000801	Pet Collection: Complete Halrath
+700009	70000901	Pet Collection: Complete Hagufna
+700010	70001001	Pet Collection: Complete Resurrected Atrocitas
+700011	70001101	Pet Collection: Complete Undead Commander
+700012	70001201	Pet Collection: Complete Akalath Kashir
+700013	70001301	Pet Collection: Complete Big Kalligar
+700014	70001401	Pet Collection: Complete Mephisis
+700015	70001501	Pet Collection: Complete Shandra Manaya
+700016	70001601	Pet Collection: Complete Darkan
+700017	70001701	Pet Collection: Complete Ptakum
+700018	70001801	Pet Collection: Complete Magnarox
+700019	70001901	Pet Collection: Complete Duras
+700020	70002001	Pet Collection: Complete AA-23
+700021	70002101	Pet Collection: Complete Nimistrix
+700022	70002201	Pet Collection: Complete Kezzel
+700023	70002301	Pet Collection: Complete Phantom
+700024	70002401	Pet Collection: Complete Akasha
+700025	70002501	Pet Collection: Complete Berylheart
+700026	70002601	Pet Collection: Complete Lilith
+700027	70002701	Pet Collection: Complete Krakatox
+700028	70002801	Pet Collection: Complete Petrax
+700029	70002901	Pet Collection: Complete Giant Watermelon
+700030	70003001	Pet Collection: Complete Hemera
+700031	70003101	Pet Collection: Complete Valona
+700032	70003201	Pet Collection: Complete Verdrax
+700100	70010001	Pet Collection: Complete Normal
+700101	70010101	Pet Collection: Complete Argonized
+700102	70010201	Pet Collection: Complete Verdant Void
+700103	70010301	Pet Collection: Complete Abyssal
+700104	70010401	Pet Collection: Complete Ethereal
+700105	70010501	Pet Collection: Complete Exotic
+700106	70010601	Pet Collection: Complete Bloodshadow
+700107	70010701	Pet Collection: Complete Shining Sapphire
+700108	70010801	Pet Collection: Complete Cardinal Crystal
+700200	70020001	Pet Collection: Complete LOW and 3-man
+700201	70020101	Pet Collection: Complete MID
+700202	70020201	Pet Collection: Complete HIGH
+700203	70020301	Pet Collection: Complete TOP
+700204	70020401	Pet Collection: Complete RAID
+700205	70020501	Pet Collection: Complete SOLO
+700300	70030001	Pet Collection: Full Complete
+701000	70100001	Pet Collection: Normal Kalavese
+701001	70100101	Pet Collection: Argonized Kalavese
+701002	70100201	Pet Collection: Verdant Void Kalavese
+701003	70100301	Pet Collection: Abyssal Kalavese
+701004	70100401	Pet Collection: Ethereal Kalavese
+701005	70100501	Pet Collection: Exotic Kalavese
+701006	70100601	Pet Collection: Bloodshadow Kalavese
+701007	70100701	Pet Collection: Shining Sapphire Kalavese
+701008	70100801	Pet Collection: Cardinal Crystal Kalavese
+701010	70101001	Pet Collection: Normal Small Kalligar
+701011	70101101	Pet Collection: Argonized Small Kalligar
+701012	70101201	Pet Collection: Verdant Void Small Kalligar
+701013	70101301	Pet Collection: Abyssal Small Kalligar
+701014	70101401	Pet Collection: Ethereal Small Kalligar
+701015	70101501	Pet Collection: Exotic Small Kalligar
+701016	70101601	Pet Collection: Bloodshadow Small Kalligar
+701017	70101701	Pet Collection: Shining Sapphire Small Kalligar
+701018	70101801	Pet Collection: Cardinal Crystal Small Kalligar
+701020	70102001	Pet Collection: Normal Pepero
+701021	70102101	Pet Collection: Argonized Pepero
+701022	70102201	Pet Collection: Verdant Void Pepero
+701023	70102301	Pet Collection: Abyssal Pepero
+701024	70102401	Pet Collection: Ethereal Pepero
+701025	70102501	Pet Collection: Exotic Pepero
+701026	70102601	Pet Collection: Bloodshadow Pepero
+701027	70102701	Pet Collection: Shining Sapphire Pepero
+701028	70102801	Pet Collection: Cardinal Crystal Pepero
+701030	70103001	Pet Collection: Normal Balbatos
+701031	70103101	Pet Collection: Argonized Balbatos
+701032	70103201	Pet Collection: Verdant Void Balbatos
+701033	70103301	Pet Collection: Abyssal Balbatos
+701034	70103401	Pet Collection: Ethereal Balbatos
+701035	70103501	Pet Collection: Exotic Balbatos
+701036	70103601	Pet Collection: Bloodshadow Balbatos
+701037	70103701	Pet Collection: Shining Sapphire Balbatos
+701038	70103801	Pet Collection: Cardinal Crystal Balbatos
+701040	70104001	Pet Collection: Normal Salcata
+701041	70104101	Pet Collection: Argonized Salcata
+701042	70104201	Pet Collection: Verdant Void Salcata
+701043	70104301	Pet Collection: Abyssal Salcata
+701044	70104401	Pet Collection: Ethereal Salcata
+701045	70104501	Pet Collection: Exotic Salcata
+701046	70104601	Pet Collection: Bloodshadow Salcata
+701047	70104701	Pet Collection: Shining Sapphire Salcata
+701048	70104801	Pet Collection: Cardinal Crystal Salcata
+701050	70105001	Pet Collection: Normal Nedra
+701051	70105101	Pet Collection: Argonized Nedra
+701052	70105201	Pet Collection: Verdant Void Nedra
+701053	70105301	Pet Collection: Abyssal Nedra
+701054	70105401	Pet Collection: Ethereal Nedra
+701055	70105501	Pet Collection: Exotic Nedra
+701056	70105601	Pet Collection: Bloodshadow Nedra
+701057	70105701	Pet Collection: Shining Sapphire Nedra
+701058	70105801	Pet Collection: Cardinal Crystal Nedra
+701060	70106001	Pet Collection: Normal Akalath Travan
+701061	70106101	Pet Collection: Argonized Akalath Travan
+701062	70106201	Pet Collection: Verdant Void Akalath Travan
+701063	70106301	Pet Collection: Abyssal Akalath Travan
+701064	70106401	Pet Collection: Ethereal Akalath Travan
+701065	70106501	Pet Collection: Exotic Akalath Travan
+701066	70106601	Pet Collection: Bloodshadow Akalath Travan
+701067	70106701	Pet Collection: Shining Sapphire Akalath Travan
+701068	70106801	Pet Collection: Cardinal Crystal Akalath Travan
+701070	70107001	Pet Collection: Normal Viyor
+701071	70107101	Pet Collection: Argonized Viyor
+701072	70107201	Pet Collection: Verdant Void Viyor
+701073	70107301	Pet Collection: Abyssal Viyor
+701074	70107401	Pet Collection: Ethereal Viyor
+701075	70107501	Pet Collection: Exotic Viyor
+701076	70107601	Pet Collection: Bloodshadow Viyor
+701077	70107701	Pet Collection: Shining Sapphire Viyor
+701078	70107801	Pet Collection: Cardinal Crystal Viyor
+701080	70108001	Pet Collection: Normal Halrath
+701081	70108101	Pet Collection: Argonized Halrath
+701082	70108201	Pet Collection: Verdant Void Halrath
+701083	70108301	Pet Collection: Abyssal Halrath
+701084	70108401	Pet Collection: Ethereal Halrath
+701085	70108501	Pet Collection: Exotic Halrath
+701086	70108601	Pet Collection: Bloodshadow Halrath
+701087	70108701	Pet Collection: Shining Sapphire Halrath
+701088	70108801	Pet Collection: Cardinal Crystal Halrath
+701090	70109001	Pet Collection: Normal Hagufna
+701091	70109101	Pet Collection: Argonized Hagufna
+701092	70109201	Pet Collection: Verdant Void Hagufna
+701093	70109301	Pet Collection: Abyssal Hagufna
+701094	70109401	Pet Collection: Ethereal Hagufna
+701095	70109501	Pet Collection: Exotic Hagufna
+701096	70109601	Pet Collection: Bloodshadow Hagufna
+701097	70109701	Pet Collection: Shining Sapphire Hagufna
+701098	70109801	Pet Collection: Cardinal Crystal Hagufna
+701100	70110001	Pet Collection: Normal Resurrected Atrocitas
+701101	70110101	Pet Collection: Argonized Resurrected Atrocitas
+701102	70110201	Pet Collection: Verdant Void Resurrected Atrocitas
+701103	70110301	Pet Collection: Abyssal Resurrected Atrocitas
+701104	70110401	Pet Collection: Ethereal Resurrected Atrocitas
+701105	70110501	Pet Collection: Exotic Resurrected Atrocitas
+701106	70110601	Pet Collection: Bloodshadow Resurrected Atrocitas
+701107	70110701	Pet Collection: Shining Sapphire Resurrected Atrocitas
+701108	70110801	Pet Collection: Cardinal Crystal Resurrected Atrocitas
+701110	70111001	Pet Collection: Normal Undead Commander
+701111	70111101	Pet Collection: Argonized Undead Commander
+701112	70111201	Pet Collection: Verdant Void Undead Commander
+701113	70111301	Pet Collection: Abyssal Undead Commander
+701114	70111401	Pet Collection: Ethereal Undead Commander
+701115	70111501	Pet Collection: Exotic Undead Commander
+701116	70111601	Pet Collection: Bloodshadow Undead Commander
+701117	70111701	Pet Collection: Shining Sapphire Undead Commander
+701118	70111801	Pet Collection: Cardinal Crystal Undead Commander
+701120	70112001	Pet Collection: Normal Akalath Kashir
+701121	70112101	Pet Collection: Argonized Akalath Kashir
+701122	70112201	Pet Collection: Verdant Void Akalath Kashir
+701123	70112301	Pet Collection: Abyssal Akalath Kashir
+701124	70112401	Pet Collection: Ethereal Akalath Kashir
+701125	70112501	Pet Collection: Exotic Akalath Kashir
+701126	70112601	Pet Collection: Bloodshadow Akalath Kashir
+701127	70112701	Pet Collection: Shining Sapphire Akalath Kashir
+701128	70112801	Pet Collection: Cardinal Crystal Akalath Kashir
+701130	70113001	Pet Collection: Normal Big Kalligar
+701131	70113101	Pet Collection: Argonized Big Kalligar
+701132	70113201	Pet Collection: Verdant Void Big Kalligar
+701133	70113301	Pet Collection: Abyssal Big Kalligar
+701134	70113401	Pet Collection: Ethereal Big Kalligar
+701135	70113501	Pet Collection: Exotic Big Kalligar
+701136	70113601	Pet Collection: Bloodshadow Big Kalligar
+701137	70113701	Pet Collection: Shining Sapphire Big Kalligar
+701138	70113801	Pet Collection: Cardinal Crystal Big Kalligar
+701140	70114001	Pet Collection: Normal Mephisis
+701141	70114101	Pet Collection: Argonized Mephisis
+701142	70114201	Pet Collection: Verdant Void Mephisis
+701143	70114301	Pet Collection: Abyssal Mephisis
+701144	70114401	Pet Collection: Ethereal Mephisis
+701145	70114501	Pet Collection: Exotic Mephisis
+701146	70114601	Pet Collection: Bloodshadow Mephisis
+701147	70114701	Pet Collection: Shining Sapphire Mephisis
+701148	70114801	Pet Collection: Cardinal Crystal Mephisis
+701150	70115001	Pet Collection: Normal Shandra Manaya
+701151	70115101	Pet Collection: Argonized Shandra Manaya
+701152	70115201	Pet Collection: Verdant Void Shandra Manaya
+701153	70115301	Pet Collection: Abyssal Shandra Manaya
+701154	70115401	Pet Collection: Ethereal Shandra Manaya
+701155	70115501	Pet Collection: Exotic Shandra Manaya
+701156	70115601	Pet Collection: Bloodshadow Shandra Manaya
+701157	70115701	Pet Collection: Shining Sapphire Shandra Manaya
+701158	70115801	Pet Collection: Cardinal Crystal Shandra Manaya
+701160	70116001	Pet Collection: Normal Darkan
+701161	70116101	Pet Collection: Argonized Darkan
+701162	70116201	Pet Collection: Verdant Void Darkan
+701163	70116301	Pet Collection: Abyssal Darkan
+701164	70116401	Pet Collection: Ethereal Darkan
+701165	70116501	Pet Collection: Exotic Darkan
+701166	70116601	Pet Collection: Bloodshadow Darkan
+701167	70116701	Pet Collection: Shining Sapphire Darkan
+701168	70116801	Pet Collection: Cardinal Crystal Darkan
+701170	70117001	Pet Collection: Normal Ptakum
+701171	70117101	Pet Collection: Argonized Ptakum
+701172	70117201	Pet Collection: Verdant Void Ptakum
+701173	70117301	Pet Collection: Abyssal Ptakum
+701174	70117401	Pet Collection: Ethereal Ptakum
+701175	70117501	Pet Collection: Exotic Ptakum
+701176	70117601	Pet Collection: Bloodshadow Ptakum
+701177	70117701	Pet Collection: Shining Sapphire Ptakum
+701178	70117801	Pet Collection: Cardinal Crystal Ptakum
+701180	70118001	Pet Collection: Normal Magnarox
+701181	70118101	Pet Collection: Argonized Magnarox
+701182	70118201	Pet Collection: Verdant Void Magnarox
+701183	70118301	Pet Collection: Abyssal Magnarox
+701184	70118401	Pet Collection: Ethereal Magnarox
+701185	70118501	Pet Collection: Exotic Magnarox
+701186	70118601	Pet Collection: Bloodshadow Magnarox
+701187	70118701	Pet Collection: Shining Sapphire Magnarox
+701188	70118801	Pet Collection: Cardinal Crystal Magnarox
+701190	70119001	Pet Collection: Normal Duras
+701191	70119101	Pet Collection: Argonized Duras
+701192	70119201	Pet Collection: Verdant Void Duras
+701193	70119301	Pet Collection: Abyssal Duras
+701194	70119401	Pet Collection: Ethereal Duras
+701195	70119501	Pet Collection: Exotic Duras
+701196	70119601	Pet Collection: Bloodshadow Duras
+701197	70119701	Pet Collection: Shining Sapphire Duras
+701198	70119801	Pet Collection: Cardinal Crystal Duras
+701220	70122001	Pet Collection: Normal AA-23
+701221	70122101	Pet Collection: Argonized AA-23
+701222	70122201	Pet Collection: Verdant Void AA-23
+701223	70122301	Pet Collection: Abyssal AA-23
+701224	70122401	Pet Collection: Ethereal AA-23
+701225	70122501	Pet Collection: Exotic AA-23
+701226	70122601	Pet Collection: Bloodshadow AA-23
+701227	70122701	Pet Collection: Shining Sapphire AA-23
+701228	70122801	Pet Collection: Cardinal Crystal AA-23
+701230	70123001	Pet Collection: Normal Nimistrix
+701231	70123101	Pet Collection: Argonized Nimistrix
+701232	70123201	Pet Collection: Verdant Void Nimistrix
+701233	70123301	Pet Collection: Abyssal Nimistrix
+701234	70123401	Pet Collection: Ethereal Nimistrix
+701235	70123501	Pet Collection: Exotic Nimistrix
+701236	70123601	Pet Collection: Bloodshadow Nimistrix
+701237	70123701	Pet Collection: Shining Sapphire Nimistrix
+701238	70123801	Pet Collection: Cardinal Crystal Nimistrix
+701240	70124001	Pet Collection: Normal Kezzel
+701241	70124101	Pet Collection: Argonized Kezzel
+701242	70124201	Pet Collection: Verdant Void Kezzel
+701243	70124301	Pet Collection: Abyssal Kezzel
+701244	70124401	Pet Collection: Ethereal Kezzel
+701245	70124501	Pet Collection: Exotic Kezzel
+701246	70124601	Pet Collection: Bloodshadow Kezzel
+701247	70124701	Pet Collection: Shining Sapphire Kezzel
+701248	70124801	Pet Collection: Cardinal Crystal Kezzel
+701250	70125001	Pet Collection: Normal Phantom
+701251	70125101	Pet Collection: Argonized Phantom
+701252	70125201	Pet Collection: Verdant Void Phantom
+701253	70125301	Pet Collection: Abyssal Phantom
+701254	70125401	Pet Collection: Ethereal Phantom
+701255	70125501	Pet Collection: Exotic Phantom
+701256	70125601	Pet Collection: Bloodshadow Phantom
+701257	70125701	Pet Collection: Shining Sapphire Phantom
+701258	70125801	Pet Collection: Cardinal Crystal Phantom
+701260	70126001	Pet Collection: Normal Akasha
+701261	70126101	Pet Collection: Argonized Akasha
+701262	70126201	Pet Collection: Verdant Void Akasha
+701263	70126301	Pet Collection: Abyssal Akasha
+701264	70126401	Pet Collection: Ethereal Akasha
+701265	70126501	Pet Collection: Exotic Akasha
+701266	70126601	Pet Collection: Bloodshadow Akasha
+701267	70126701	Pet Collection: Shining Sapphire Akasha
+701268	70126801	Pet Collection: Cardinal Crystal Akasha
+701270	70127001	Pet Collection: Normal Berylheart
+701271	70127101	Pet Collection: Argonized Berylheart
+701272	70127201	Pet Collection: Verdant Void Berylheart
+701273	70127301	Pet Collection: Abyssal Berylheart
+701274	70127401	Pet Collection: Ethereal Berylheart
+701275	70127501	Pet Collection: Exotic Berylheart
+701276	70127601	Pet Collection: Bloodshadow Berylheart
+701277	70127701	Pet Collection: Shining Sapphire Berylheart
+701278	70127801	Pet Collection: Cardinal Crystal Berylheart
+701280	70128001	Pet Collection: Normal Lilith
+701281	70128101	Pet Collection: Argonized Lilith
+701282	70128201	Pet Collection: Verdant Void Lilith
+701283	70128301	Pet Collection: Abyssal Lilith
+701284	70128401	Pet Collection: Ethereal Lilith
+701285	70128501	Pet Collection: Exotic Lilith
+701286	70128601	Pet Collection: Bloodshadow Lilith
+701287	70128701	Pet Collection: Shining Sapphire Lilith
+701288	70128801	Pet Collection: Cardinal Crystal Lilith
+701290	70129001	Pet Collection: Normal Krakatox
+701291	70129101	Pet Collection: Argonized Krakatox
+701292	70129201	Pet Collection: Verdant Void Krakatox
+701293	70129301	Pet Collection: Abyssal Krakatox
+701294	70129401	Pet Collection: Ethereal Krakatox
+701295	70129501	Pet Collection: Exotic Krakatox
+701296	70129601	Pet Collection: Bloodshadow Krakatox
+701297	70129701	Pet Collection: Shining Sapphire Krakatox
+701298	70129801	Pet Collection: Cardinal Crystal Krakatox
+701300	70130001	Pet Collection: Normal Petrax
+701301	70130101	Pet Collection: Argonized Petrax
+701302	70130201	Pet Collection: Verdant Void Petrax
+701303	70130301	Pet Collection: Abyssal Petrax
+701304	70130401	Pet Collection: Ethereal Petrax
+701305	70130501	Pet Collection: Exotic Petrax
+701306	70130601	Pet Collection: Bloodshadow Petrax
+701307	70130701	Pet Collection: Shining Sapphire Petrax
+701308	70130801	Pet Collection: Cardinal Crystal Petrax
+701310	70131001	Pet Collection: Normal Giant Watermelon
+701311	70131101	Pet Collection: Argonized Giant Watermelon
+701312	70131201	Pet Collection: Verdant Void Giant Watermelon
+701313	70131301	Pet Collection: Abyssal Giant Watermelon
+701314	70131401	Pet Collection: Ethereal Giant Watermelon
+701315	70131501	Pet Collection: Exotic Giant Watermelon
+701316	70131601	Pet Collection: Bloodshadow Giant Watermelon
+701317	70131701	Pet Collection: Shining Sapphire Giant Watermelon
+701318	70131801	Pet Collection: Cardinal Crystal Giant Watermelon
+701320	70132001	Pet Collection: Normal Hemera
+701321	70132101	Pet Collection: Argonized Hemera
+701322	70132201	Pet Collection: Verdant Void Hemera
+701323	70132301	Pet Collection: Abyssal Hemera
+701324	70132401	Pet Collection: Ethereal Hemera
+701325	70132501	Pet Collection: Exotic Hemera
+701326	70132601	Pet Collection: Bloodshadow Hemera
+701327	70132701	Pet Collection: Shining Sapphire Hemera
+701328	70132801	Pet Collection: Cardinal Crystal Hemera
+701330	70133001	Pet Collection: Normal Valona
+701331	70133101	Pet Collection: Argonized Valona
+701332	70133201	Pet Collection: Verdant Void Valona
+701333	70133301	Pet Collection: Abyssal Valona
+701334	70133401	Pet Collection: Ethereal Valona
+701335	70133501	Pet Collection: Exotic Valona
+701336	70133601	Pet Collection: Bloodshadow Valona
+701337	70133701	Pet Collection: Shining Sapphire Valona
+701338	70133801	Pet Collection: Cardinal Crystal Valona
+701340	70134001	Pet Collection: Normal Verdrax
+701341	70134101	Pet Collection: Argonized Verdrax
+701342	70134201	Pet Collection: Verdant Void Verdrax
+701343	70134301	Pet Collection: Abyssal Verdrax
+701344	70134401	Pet Collection: Ethereal Verdrax
+701345	70134501	Pet Collection: Exotic Verdrax
+701346	70134601	Pet Collection: Bloodshadow Verdrax
+701347	70134701	Pet Collection: Shining Sapphire Verdrax
+701348	70134801	Pet Collection: Cardinal Crystal Verdrax
+2500001	25000011	Valkyria: Lookout
+2500002	25000021	Valkyria: Titan's Arm
+2500003	25000031	Valkyria: History
