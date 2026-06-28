@@ -3950,6 +3950,8 @@
 468049	Speed	Buff	True	seta	10000000	0	10	Bloodshard Suffusion	1523	Bloodshard Suffusion	Nightmare Pahoegar's damage and Attack Speed are dramatically increased.	icon_skills.rampage_tex	icon_skills.rampage_tex	True
 468049	24	Buff	True	seta	10000000	0	2	Bloodshard Suffusion	1523	Bloodshard Suffusion	Nightmare Pahoegar's damage and Attack Speed are dramatically increased.	icon_skills.rampage_tex	icon_skills.rampage_tex	True
 468050	245	Buff	True	seta	1000000	0	0	Immunity	73	Immunity	Immunity	icon_skills.rampage_tex	icon_skills.rampage_tex	False
+468051	241	Buff	False	seta	1800000	0	0	Shadow Sanguinary Add Damage	468051	Shadow Sanguinary Add Damage	Gunner and Valkyrie deal double damage to Shadow Sanguinary normal monsters during boss combat.	icon_status.diseaseup_tex	icon_status.diseaseup_tex	True
+468052	241	Debuff	False	seta	1800000	0	0		468052					False
 470000	Speed	Buff	True	seta	1000	0	1		44557		Not supposed to be shown	icon_status.minddomination_tex	icon_status.minddomination_tex	False
 470001	248	Buff	False	seta	6000000	0	470002	Manglemore's Change of Heart	44557	Manglemore's Change of Heart	If this effect stacks up enough, Manglemore lies. How often Manglemore lies is up to him.	icon_status.minddomination_tex	icon_status.minddomination_tex	False
 470002	Speed	Buff	True	seta	6000000	0	1	BTS	44558	BTS	BTS			False
@@ -5221,6 +5223,8 @@
 768048	275	Buff	False	seta	3000	0	0	Impaled	28824	Impaled	Stunned. Blood magic is spreading in your body.	icon_status.fearstatus_tex	icon_status.fearstatus_tex	True
 768049	Balance	Buff	False	seta	1	0	1		44					False
 768050	245	Buff	True	seta	1000000	0	0	Immunity	73	Immunity	Immunity	icon_skills.rampage_tex	icon_skills.rampage_tex	False
+768051	241	Buff	False	seta	1800000	0	0	Shadow Sanguinary Add Damage	768051	Shadow Sanguinary Add Damage	Gunner and Valkyrie deal double damage to Shadow Sanguinary normal monsters during boss combat.	icon_status.diseaseup_tex	icon_status.diseaseup_tex	True
+768052	241	Debuff	False	seta	1800000	0	0		768052					False
 776013	0	Buff	False	seta	5000	0	0	Ship's Bomb	28905	Ship's Bomb	You are a bomb!	icon_skills.voidtrap_tex	icon_skills.voidtrap_tex	False
 776014	0	Buff	False	seta	1000	0	0	Bomb Explosion	28906	Bomb Explosion	Exploding!	icon_skills.voidtrap_tex	icon_skills.voidtrap_tex	False
 776015	0	Buff	False	seta	3000	0	0	Bomb Explosion	28815	Bomb Explosion	Exploding!	icon_skills.voidtrap_tex	icon_skills.voidtrap_tex	False
