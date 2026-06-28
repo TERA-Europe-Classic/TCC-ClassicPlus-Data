@@ -2627,7 +2627,7 @@
     <Monster name="Suren" id="1017" isBoss="False" hp="10000" enrageHp="403799" speciesId="0" />
     <Monster name="Einna" id="1018" isBoss="False" hp="10000" enrageHp="403799" speciesId="0" />
     <Monster name="Lennert" id="1019" isBoss="False" hp="10000" enrageHp="403799" speciesId="0" />
-    <Monster name="Gattoll" id="1020" isBoss="False" hp="10000" enrageHp="403799" speciesId="0" />
+    <Monster name="Ralof" id="1020" isBoss="False" hp="10000" enrageHp="403799" speciesId="0" />
     <Monster name="Drallas" id="1021" isBoss="False" hp="10000" enrageHp="403799" speciesId="0" />
     <Monster name="Surell" id="1022" isBoss="False" hp="10000" enrageHp="403799" speciesId="0" />
     <Monster name="Heikon" id="1023" isBoss="False" hp="10000" enrageHp="403799" speciesId="0" />
